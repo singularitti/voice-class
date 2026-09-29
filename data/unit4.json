@@ -8,7 +8,8 @@
    "The opening of the glottis during a quick inhalation before a phrase begins"
   ],
   "explain": "The chapter defines resonance as the tendency of a cavity, such as the mouth, to reinforce sounds at specific frequencies or ranges of frequencies.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "What largely determines a singer's vocal timbre?",
@@ -19,7 +20,8 @@
    "The number of vocal fold cycles per second"
   ],
   "explain": "Fundamental and harmonics are heard as one pitch, and the harmonics a singer's vocal tract emphasizes are perceived as differences in timbre.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "Which set lists the major components of the vocal tract described in the chapter?",
@@ -30,7 +32,8 @@
    "Larynx, epiglottis, hard palate, and sinuses"
   ],
   "explain": "The chapter names the larynx, oral pharynx, nasal pharynx, and mouth as the basic vocal tract components; the chest and head are not significant resonators.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "What are formants?",
@@ -41,7 +44,8 @@
    "Vibrations that a singer feels in the chest and head while singing loudly"
   ],
   "explain": "Formants are the resonances of the vocal tract, the frequency ranges where its cavities resonate most strongly.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "Which vocal tract adjustment most strongly influences the first formant (F1)?",
@@ -52,7 +56,8 @@
    "Firming the vocal fold closure during phonation to raise the harmonics"
   ],
   "explain": "F1 relates mostly to pharynx resonance and is particularly responsive to lowering of the rear portion of the jaw.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "Which factor primarily influences the second formant (F2)?",
@@ -63,7 +68,8 @@
    "Firmness of glottal closure"
   ],
   "explain": "F2 relates to mouth resonance and varies mainly with tongue position, and somewhat with lip shape.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "What is the singer's formant?",
@@ -74,7 +80,8 @@
    "A subharmonic below the fundamental that darkens the tone"
   ],
   "explain": "When F3 rises to cluster with F4 and F5, substantial intensity is created at higher harmonic frequencies, giving the voice its \"ring.\"",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "For classical and legit singing, what laryngeal position is desirable?",
@@ -85,7 +92,8 @@
    "Raised as the pitch ascends to shorten the tract"
   ],
   "explain": "A comfortably low larynx is desirable for classical and legit styles; unconscious raising on higher pitches can cause instability.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "What does the soft palate (velum) do in singing?",
@@ -96,7 +104,8 @@
    "It determines the fundamental frequency of the pitch by tensing the vocal folds"
   ],
   "explain": "Closing the nasal pharynx is done by raising the soft palate; lowering it slightly opens access to the nasal cavity and brightens the sound.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "When singing vowels, where should the tip of the tongue generally rest?",
@@ -107,7 +116,8 @@
    "Pulled back on the floor of the mouth to widen the throat for tone"
   ],
   "explain": "Singers should form vowels with the tongue tip resting against the lower front teeth, just touching the gum line.",
-  "source": "guide"
+  "source": "guide",
+  "difficulty": "hard"
  },
  {
   "q": "Why can a singer with good resonance be louder without extra breath pressure?",
@@ -118,7 +128,8 @@
    "A raised larynx shortens the vocal tract and boosts the volume"
   ],
   "explain": "Vocal resonance does not amplify like an electronic device; well-resonating singers are louder because they convert breath energy to sound more efficiently.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "According to the chapter, which harmonics are amplified most strongly by the vocal tract?",
@@ -129,7 +140,8 @@
    "Only harmonics lower than the fundamental"
   ],
   "explain": "The most amplified harmonics are those near but under the formant frequencies; in that position the tract also feeds energy back to the folds.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "What happens if a harmonic is allowed to cross through a formant frequency as pitch ascends?",
@@ -140,7 +152,8 @@
    "The vibrato rate increases while the pitch is unchanged and the tone brightens"
   ],
   "explain": "Crossing the formant produces unfavorable feedback on the vocal folds, leading to breaks and/or sudden pitch changes.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "How does firmer glottal closure, as in belting, affect the harmonics?",
@@ -151,7 +164,8 @@
    "It leaves all harmonic levels the same as they are in head voice or falsetto"
   ],
   "explain": "Firmer closure substantially diminishes the fundamental and raises the second and third harmonics, giving a brassier sound.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "Why does [u] sound \"darker\" than the other vowels?",
@@ -162,7 +176,8 @@
    "The soft palate is lowered to open the nasal port, so the sound resonates in the nose"
   ],
   "explain": "For [u] the tongue's high point is toward the rear and the mouth opening is narrow, lengthening the tract and lowering F2.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "What happens to formant frequencies when the larynx is low and the lips are protruded?",
@@ -173,7 +188,8 @@
    "They stay fixed and only the fundamental changes in the spectrum"
   ],
   "explain": "A larger, longer vocal tract lowers all formant frequencies; a shorter tract raises them and brightens the sound.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "In which frequency range is human hearing reported to be most sensitive, making the singer's formant effective?",
@@ -184,7 +200,8 @@
    "About 100-200 Hz"
   ],
   "explain": "Hunter and Titze agree that human hearing is most sensitive around 3000-4000 Hz, which is where the singer's formant lies.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "Where is the singer's formant thought to be generated?",
@@ -195,7 +212,8 @@
    "In the sinuses of the head, where bone conduction adds brilliance"
   ],
   "explain": "The singer's formant is thought to arise in the small cavities of the larynx just above the vocal folds, called the epilarynx tube.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "How do singers typically change their singer's formant when blending in a choir compared with singing solo?",
@@ -206,7 +224,8 @@
    "They reduce it only when singing loudly and increase it when singing softly"
   ],
   "explain": "Studies show both male and female singers decrease the singer's formant amplitude to blend in choral settings, especially when soft.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "Contraction of which muscles tends to raise the larynx?",
@@ -217,7 +236,8 @@
    "Muscles that lift the soft palate"
   ],
   "explain": "Contracting the muscles above the larynx, which relate to swallowing, raises it; the yawning muscles below pull it down.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "In Wooldridge's experiment, how did singers sound when their nasal passages were blocked with cotton?",
@@ -228,7 +248,8 @@
    "Slightly sharp in pitch"
   ],
   "explain": "Singers with cotton-blocked nasal passages sounded the same on non-nasal vowels, which shows nasal resonance adds nothing the audience hears.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "In Tetrazzini's exercise for the jaw, what confirms the jaw has been unhinged correctly?",
@@ -239,7 +260,8 @@
    "Feeling vibration at the bridge of the nose fade as the soft palate lifts"
   ],
   "explain": "With fingers below the temples in front of the ears, the separation felt as the jaw opens confirms it has been released without opening the mouth excessively.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "Why do classical sopranos lower the rear of the jaw as pitch rises above about C5-D5?",
@@ -250,7 +272,8 @@
    "To move the singer's formant into the nasal pharynx where it can be amplified"
   ],
   "explain": "Lowering the rear jaw keeps the first formant just above the sung pitch, which amplifies the fundamental and avoids pitch instabilities.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "Which example best illustrates conductive resonance?",
@@ -261,7 +284,8 @@
    "Echoes returning from the walls and ceiling of a performance hall"
   ],
   "explain": "Conductive resonance is the transmission of vibrations through direct contact, as with a violin; the piano string example is sympathetic resonance.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
  },
  {
   "q": "Why do plosive consonants followed by a vowel (bah, gah, kah) help raise the soft palate?",
@@ -272,6 +296,163 @@
    "They open the nasal port so that nasal vibrations can be felt more strongly"
   ],
   "explain": "The plosive's back pressure forces the soft palate into a closed position, which helps singers sense a lifted palate.",
-  "source": "book"
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is resonance?",
+  "correct": "The reinforcement of specific frequencies by resonating spaces",
+  "distractors": [
+   "The vibration of the vocal folds",
+   "The loudness of the voice",
+   "The speed of the vibrato"
+  ],
+  "explain": "Resonating spaces strengthen certain frequencies.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What determines vocal timbre?",
+  "correct": "The amplification of harmonics by the vocal tract",
+  "distractors": [
+   "Breath pressure alone",
+   "The length of the phrase",
+   "The vibrato rate"
+  ],
+  "explain": "Which harmonics get amplified gives the voice its color.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What are harmonics?",
+  "correct": "Frequencies above the fundamental pitch",
+  "distractors": [
+   "The lowest pitch a singer can produce",
+   "Consonant sounds",
+   "Spaces in the head that resonate"
+  ],
+  "explain": "Harmonics are the overtones above the fundamental.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which list names the major resonators?",
+  "correct": "Larynx, oral pharynx, mouth, and nasal pharynx",
+  "distractors": [
+   "Lungs, diaphragm, ribs, and abdomen",
+   "Lips, teeth, alveolar ridge, and jaw",
+   "Vocal folds, trachea, sternum, and ribs"
+  ],
+  "explain": "The major resonators are the larynx, oral pharynx, mouth, and nasal pharynx.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why is the oral pharynx important?",
+  "correct": "It contributes warmth, richness, and depth",
+  "distractors": [
+   "It produces the fundamental pitch",
+   "It controls the vibrato rate",
+   "It is where the vocal folds vibrate"
+  ],
+  "explain": "The oral pharynx adds warmth and depth to the tone.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What are formants?",
+  "correct": "Resonance frequencies of the vocal tract",
+  "distractors": [
+   "Irregularities in the vibrato",
+   "Consonant sounds",
+   "The pitches of the vocal folds"
+  ],
+  "explain": "Formants are the vocal tract's resonance frequencies.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What primarily influences the First Formant (F1)?",
+  "correct": "Jaw opening and pharyngeal space",
+  "distractors": [
+   "Tongue position only",
+   "Breath pressure",
+   "The vibrato rate"
+  ],
+  "explain": "F1 follows jaw opening and pharyngeal space.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What primarily influences the Second Formant (F2)?",
+  "correct": "Tongue position",
+  "distractors": [
+   "Jaw opening and pharyngeal space",
+   "Breath pressure",
+   "The vibrato extent"
+  ],
+  "explain": "F2 follows the position of the tongue.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What primarily influences the Third Formant (F3)?",
+  "correct": "Tongue position and laryngeal structures",
+  "distractors": [
+   "Jaw opening and pharyngeal space",
+   "Breath pressure and rib expansion",
+   "The size of the nasal cavity"
+  ],
+  "explain": "F3 is shaped by the tongue and the larynx.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is the Singer's Formant?",
+  "correct": "A clustering of upper formants that increases projection",
+  "distractors": [
+   "A very wide vibrato at high pitches",
+   "The lowest formant, which adds warmth",
+   "A breathy quality used in soft singing"
+  ],
+  "explain": "Clustered upper formants help the voice project.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What laryngeal position is typical in classical singing?",
+  "correct": "Comfortably low and flexible",
+  "distractors": [
+   "High and fixed",
+   "Raised as high as possible",
+   "Pressed down and held rigid"
+  ],
+  "explain": "A relaxed, comfortably low larynx is typical.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is the role of the soft palate?",
+  "correct": "It controls access to the nasal cavity and influences resonance",
+  "distractors": [
+   "It vibrates to create the sound",
+   "It pushes air out of the lungs",
+   "It raises the pitch"
+  ],
+  "explain": "The soft palate opens or closes the way to the nose.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Where should the tongue tip generally rest?",
+  "correct": "Against the lower front teeth",
+  "distractors": [
+   "Curled up against the hard palate",
+   "Touching the soft palate",
+   "Between the upper and lower teeth"
+  ],
+  "explain": "The tongue tip rests behind the lower front teeth.",
+  "source": "guide",
+  "difficulty": "easy"
  }
 ]

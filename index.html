@@ -17,9 +17,18 @@
     <section id="screen-start" class="screen">
       <p class="eyebrow">Vocal Technique · Chapters 1–8</p>
       <h1>Voice Class Quiz</h1>
-      <p class="lede">Questions are drawn at random from a bank of <span id="bank-size">200</span>. Answer options are
+      <p class="lede">Questions are drawn at random from a bank of <span id="bank-size">300</span>. Answer options are
         reshuffled every time.</p>
       <ul class="units" id="unit-list"></ul>
+      <fieldset class="sizes">
+        <legend>Difficulty</legend>
+        <div class="size-options" id="difficulty-options">
+          <label class="size"><input type="radio" name="difficulty" value="easy"><span>Easy</span></label>
+          <label class="size"><input type="radio" name="difficulty" value="hard"><span>Hard</span></label>
+          <label class="size"><input type="radio" name="difficulty" value="mixed" checked><span>Mixed</span></label>
+        </div>
+        <p class="meta" id="difficulty-note"></p>
+      </fieldset>
       <fieldset class="sizes">
         <legend>Number of questions</legend>
         <div class="size-options" id="size-options"></div>

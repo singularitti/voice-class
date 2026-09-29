@@ -14,11 +14,19 @@
     "Unit 8 · Registers",
   ];
 
+  const DIFFICULTIES = {
+    easy: "Short, direct questions in the style of the study guide.",
+    hard: "Longer, more detailed questions that draw on the textbook.",
+    mixed: "A blend of easy and hard questions.",
+  };
+  const DIFFICULTY_LABELS = { easy: "Easy", hard: "Hard", mixed: "Mixed" };
+
   let bank = [];
   const $ = (id) => document.getElementById(id);
   const screens = { start: $("screen-start"), quiz: $("screen-quiz"), result: $("screen-result") };
 
   let quizSize = 50;
+  let difficulty = "mixed";
   let quiz = [];
   let index = 0;
   let correctCount = 0;
@@ -49,8 +57,13 @@
     return shuffle(pool);
   }
 
+  function pool() {
+    return difficulty === "mixed" ? bank : bank.filter((q) => q.difficulty === difficulty);
+  }
+
   function buildQuiz() {
-    const picked = shuffle(bank).slice(0, Math.min(quizSize, bank.length));
+    const items = pool();
+    const picked = shuffle(items).slice(0, Math.min(quizSize, items.length));
     const slots = balancedSlots(picked.length, 4);
     return picked.map((item, i) => {
       const wrong = shuffle(item.distractors).slice(0, 3);
@@ -65,31 +78,41 @@
     window.scrollTo({ top: 0 });
   }
 
-  function loadBest(size) {
-    try { return JSON.parse(localStorage.getItem(`${BEST_KEY}-${size}`)); } catch { return null; }
+  function bestKey(level, size) {
+    return `${BEST_KEY}-${level}-${size}`;
+  }
+
+  function loadBest(level, size) {
+    try { return JSON.parse(localStorage.getItem(bestKey(level, size))); } catch { return null; }
   }
 
   function renderBest() {
-    const best = loadBest(quizSize);
+    const best = loadBest(difficulty, quizSize);
     const line = $("best-line");
     line.hidden = !best;
-    if (best) line.textContent = `Best score on ${best.total} questions: ${best.score}/${best.total} (${Math.round((100 * best.score) / best.total)}%)`;
+    if (best) line.textContent = `Best ${DIFFICULTY_LABELS[difficulty].toLowerCase()} score on ${best.total} questions: ${best.score}/${best.total} (${Math.round((100 * best.score) / best.total)}%)`;
   }
 
   function renderSizes() {
-    const choices = SIZE_CHOICES.filter((n) => n < bank.length).concat(bank.length);
-    if (!choices.includes(quizSize)) quizSize = choices.includes(50) ? 50 : bank.length;
+    const total = pool().length;
+    const choices = SIZE_CHOICES.filter((n) => n < total).concat(total);
+    if (!choices.includes(quizSize)) quizSize = choices.includes(50) ? 50 : total;
     $("size-options").innerHTML = choices
-      .map((n) => `<label class="size"><input type="radio" name="size" value="${n}"${n === quizSize ? " checked" : ""}><span>${n === bank.length ? `All ${n}` : n}</span></label>`)
+      .map((n) => `<label class="size"><input type="radio" name="size" value="${n}"${n === quizSize ? " checked" : ""}><span>${n === total ? `All ${n}` : n}</span></label>`)
       .join("");
   }
 
-  function renderStart() {
-    $("bank-size").textContent = bank.length;
-    const units = [...new Set(bank.map((q) => q.unit))];
-    $("unit-list").innerHTML = units.map((u) => `<li>${esc(u)}</li>`).join("");
+  function renderPool() {
+    $("bank-size").textContent = pool().length;
+    $("difficulty-note").textContent = DIFFICULTIES[difficulty];
     renderSizes();
     renderBest();
+  }
+
+  function renderStart() {
+    const units = [...new Set(bank.map((q) => q.unit))];
+    $("unit-list").innerHTML = units.map((u) => `<li>${esc(u)}</li>`).join("");
+    renderPool();
     show("start");
   }
 
@@ -116,7 +139,7 @@
     bar.setAttribute("aria-valuenow", index);
     bar.setAttribute("aria-valuemax", quiz.length);
     $("bar-fill").style.width = `${(index / quiz.length) * 100}%`;
-    $("unit-tag").textContent = item.unit;
+    $("unit-tag").textContent = difficulty === "mixed" ? `${item.unit} · ${DIFFICULTY_LABELS[item.difficulty]}` : item.unit;
     $("question").textContent = item.q;
     $("options").innerHTML = item.options
       .map((o, i) => `<button class="opt" data-i="${i}"><span class="key">${LETTERS[i]}</span><span>${esc(o)}</span></button>`)
@@ -162,10 +185,10 @@
   function finish() {
     const total = quiz.length;
     const pct = Math.round((100 * correctCount) / total);
-    const best = loadBest(total);
+    const best = loadBest(difficulty, total);
     let bestNote = "";
     if (!best || correctCount > best.score) {
-      try { localStorage.setItem(`${BEST_KEY}-${total}`, JSON.stringify({ score: correctCount, total })); } catch {}
+      try { localStorage.setItem(bestKey(difficulty, total), JSON.stringify({ score: correctCount, total })); } catch {}
       bestNote = best ? " New personal best." : "";
     }
 
@@ -173,7 +196,7 @@
     $("result-pct").textContent = `${pct}%`;
     $("result-headline").textContent =
       pct >= 90 ? "Superb work" : pct >= 75 ? "Well done" : pct >= 60 ? "Getting there" : "Keep practicing";
-    $("result-sub").textContent = `You answered ${correctCount} of ${total} correctly.${bestNote}`;
+    $("result-sub").textContent = `You answered ${correctCount} of ${total} correctly (${DIFFICULTY_LABELS[difficulty].toLowerCase()}).${bestNote}`;
 
     $("breakdown").innerHTML = Object.entries(unitStats)
       .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
@@ -198,6 +221,10 @@
     show("result");
   }
 
+  $("difficulty-options").addEventListener("change", (e) => {
+    difficulty = e.target.value;
+    renderPool();
+  });
   $("size-options").addEventListener("change", (e) => {
     quizSize = Number(e.target.value);
     renderBest();
