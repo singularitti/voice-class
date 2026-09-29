@@ -8,18 +8,14 @@ A static practice-quiz site for *Vocal Technique* (Davids & LaTour, 2nd ed.), Ch
 
 ## Local preview
 
-Open `index.html` in a browser, or run `python3 -m http.server` and visit http://localhost:8000.
+Questions are loaded with `fetch()`, so serve the folder (opening `index.html` directly won't work): run `python3 -m http.server` and visit http://localhost:8000.
 
 ## Editing questions
 
-Edit `data/unit1.json` … `data/unit8.json`, then regenerate the bundle:
-
-```sh
-python3 scripts/build_questions.py
-```
+Edit `data/unit1.json` … `data/unit8.json` directly; the page reads them at load time. Unit titles are listed in `app.js`.
 
 ## Deploying on GitHub Pages
 
-Pushing to `main` runs `.github/workflows/deploy.yml`, which rebuilds `questions.js` from `data/` and publishes the site files to the `gh-pages` branch.
+Pushing to `main` runs `.github/workflows/deploy.yml`, which publishes `index.html`, `style.css`, `app.js` and `data/` to the `gh-pages` branch.
 
 One-time setup: **Settings → Pages → Build and deployment → Deploy from a branch → `gh-pages` / `(root)`** (the branch appears after the first workflow run).

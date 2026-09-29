@@ -24,6 +24,8 @@
         <legend>Number of questions</legend>
         <div class="size-options" id="size-options"></div>
       </fieldset>
+      <p class="lede" id="load-error" hidden>Couldn't load the questions. If you opened this file directly, serve the folder
+        instead (<code>python3 -m http.server</code>) and reload.</p>
       <button class="btn primary" id="btn-start">Begin quiz</button>
       <p class="meta" id="best-line" hidden></p>
     </section>
@@ -69,7 +71,6 @@
   <footer class="foot">Based on Davids &amp; LaTour, <em>Vocal Technique</em> (2nd ed.) and the class study guide.
   </footer>
 
-  <script src="questions.js"></script>
   <script src="app.js"></script>
 </body>
 

@@ -3,7 +3,18 @@
   const BEST_KEY = "voice-quiz-best";
   const LETTERS = ["A", "B", "C", "D"];
 
-  const bank = window.QUESTIONS || [];
+  const UNITS = [
+    "Unit 1 · Alignment",
+    "Unit 2 · Breath Control",
+    "Unit 3 · Initiation, Creation & Release of Sound",
+    "Unit 4 · Resonance",
+    "Unit 5 · Consonants",
+    "Unit 6 · Vowels",
+    "Unit 7 · Vibrato",
+    "Unit 8 · Registers",
+  ];
+
+  let bank = [];
   const $ = (id) => document.getElementById(id);
   const screens = { start: $("screen-start"), quiz: $("screen-quiz"), result: $("screen-result") };
 
@@ -206,5 +217,28 @@
     else if (e.key === "Enter" && answered) { e.preventDefault(); next(); }
   });
 
-  renderStart();
+  async function loadBank() {
+    const files = await Promise.all(
+      UNITS.map((_, i) =>
+        fetch(`data/unit${i + 1}.json`).then((r) => {
+          if (!r.ok) throw new Error(`data/unit${i + 1}.json: HTTP ${r.status}`);
+          return r.json();
+        })
+      )
+    );
+    return files.flatMap((items, i) => items.map((item) => ({ ...item, unit: UNITS[i] })));
+  }
+
+  $("btn-start").disabled = true;
+  loadBank()
+    .then((items) => {
+      bank = items;
+      $("btn-start").disabled = false;
+      renderStart();
+    })
+    .catch((err) => {
+      console.error(err);
+      $("load-error").hidden = false;
+      show("start");
+    });
 })();
