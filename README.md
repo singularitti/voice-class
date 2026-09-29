@@ -20,4 +20,6 @@ python3 scripts/build_questions.py
 
 ## Deploying on GitHub Pages
 
-Repo **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)`**.
+Pushing to `main` runs `.github/workflows/deploy.yml`, which rebuilds `questions.js` from `data/` and publishes the site files to the `gh-pages` branch.
+
+One-time setup: **Settings → Pages → Build and deployment → Deploy from a branch → `gh-pages` / `(root)`** (the branch appears after the first workflow run).
