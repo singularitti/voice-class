@@ -28,9 +28,9 @@
   let quizSize = 50;
   let difficulty = "mixed";
   let quiz = [];
-  let index = 0;
+  let view = 0;
   let correctCount = 0;
-  let answered = false;
+  let answers = [];
   let missed = [];
   let unitStats = {};
 
@@ -122,7 +122,8 @@
 
   function start() {
     quiz = buildQuiz();
-    index = 0;
+    view = 0;
+    answers = [];
     correctCount = 0;
     missed = [];
     unitStats = {};
@@ -130,15 +131,45 @@
     renderQuestion();
   }
 
+  function maxView() {
+    return Math.min(answers.length, quiz.length - 1);
+  }
+
+  function renderNav() {
+    const max = maxView();
+    $("q-select").innerHTML = Array.from({ length: max + 1 }, (_, i) => {
+      const mark = answers[i] === undefined ? "" : answers[i] === quiz[i].answerIndex ? " ✓" : " ✗";
+      return `<option value="${i}"${i === view ? " selected" : ""}>Question ${i + 1} of ${quiz.length}${mark}</option>`;
+    }).join("");
+    $("btn-prev").disabled = view <= 0;
+    $("btn-fwd").disabled = view >= max;
+  }
+
+  function paintAnswer(chosen) {
+    const item = quiz[view];
+    const ok = chosen === item.answerIndex;
+    document.querySelectorAll(".opt").forEach((btn, k) => {
+      btn.disabled = true;
+      if (k === item.answerIndex) btn.classList.add("correct");
+      else if (k === chosen) btn.classList.add("wrong");
+      else btn.classList.add("dim");
+    });
+    const fb = $("feedback");
+    fb.className = "feedback " + (ok ? "good" : "bad");
+    $("feedback-title").textContent = ok ? "Correct" : `Not quite — the answer is ${LETTERS[item.answerIndex]}`;
+    $("feedback-text").textContent = item.explain || "";
+    fb.hidden = false;
+    $("btn-next").hidden = false;
+  }
+
   function renderQuestion() {
-    const item = quiz[index];
-    answered = false;
-    $("progress-text").textContent = `Question ${index + 1} of ${quiz.length}`;
+    const item = quiz[view];
     $("score-text").textContent = `${correctCount} correct`;
     const bar = $("bar");
-    bar.setAttribute("aria-valuenow", index);
+    bar.setAttribute("aria-valuenow", answers.length);
     bar.setAttribute("aria-valuemax", quiz.length);
-    $("bar-fill").style.width = `${(index / quiz.length) * 100}%`;
+    $("bar-fill").style.width = `${(answers.length / quiz.length) * 100}%`;
+    renderNav();
     $("unit-tag").textContent = difficulty === "mixed" ? `${item.unit} · ${DIFFICULTY_LABELS[item.difficulty]}` : item.unit;
     $("question").textContent = item.q;
     $("options").innerHTML = item.options
@@ -146,40 +177,37 @@
       .join("");
     $("feedback").hidden = true;
     $("btn-next").hidden = true;
-    $("btn-next").textContent = index === quiz.length - 1 ? "See results" : "Next";
+    $("btn-next").textContent = view === quiz.length - 1 ? "See results" : "Next";
+    if (answers[view] !== undefined) paintAnswer(answers[view]);
   }
 
   function choose(i) {
-    if (answered) return;
-    answered = true;
-    const item = quiz[index];
+    if (answers[view] !== undefined) return;
+    const item = quiz[view];
     const ok = i === item.answerIndex;
     const stat = (unitStats[item.unit] ||= { right: 0, total: 0 });
     stat.total++;
     if (ok) { correctCount++; stat.right++; } else { missed.push({ item, chosen: i }); }
+    answers[view] = i;
 
-    document.querySelectorAll(".opt").forEach((btn, k) => {
-      btn.disabled = true;
-      if (k === item.answerIndex) btn.classList.add("correct");
-      else if (k === i) btn.classList.add("wrong");
-      else btn.classList.add("dim");
-    });
-
-    const fb = $("feedback");
-    fb.className = "feedback " + (ok ? "good" : "bad");
-    $("feedback-title").textContent = ok ? "Correct" : `Not quite — the answer is ${LETTERS[item.answerIndex]}`;
-    $("feedback-text").textContent = item.explain || "";
-    fb.hidden = false;
+    paintAnswer(i);
     $("score-text").textContent = `${correctCount} correct`;
-    $("btn-next").hidden = false;
+    $("bar-fill").style.width = `${(answers.length / quiz.length) * 100}%`;
+    $("bar").setAttribute("aria-valuenow", answers.length);
+    renderNav();
     $("btn-next").focus({ preventScroll: true });
   }
 
-  function next() {
-    if (!answered) return;
-    if (index === quiz.length - 1) return finish();
-    index++;
+  function goTo(i) {
+    if (i < 0 || i > maxView() || i === view) return;
+    view = i;
     renderQuestion();
+  }
+
+  function next() {
+    if (answers[view] === undefined) return;
+    if (view === quiz.length - 1) return finish();
+    goTo(view + 1);
   }
 
   function finish() {
@@ -233,15 +261,18 @@
   $("btn-again").addEventListener("click", start);
   $("btn-home").addEventListener("click", renderStart);
   $("btn-next").addEventListener("click", next);
+  $("btn-prev").addEventListener("click", () => goTo(view - 1));
+  $("btn-fwd").addEventListener("click", () => goTo(view + 1));
+  $("q-select").addEventListener("change", (e) => goTo(Number(e.target.value)));
   $("options").addEventListener("click", (e) => {
     const btn = e.target.closest(".opt");
     if (btn) choose(Number(btn.dataset.i));
   });
 
   document.addEventListener("keydown", (e) => {
-    if (screens.quiz.hidden || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (screens.quiz.hidden || e.metaKey || e.ctrlKey || e.altKey || e.target.tagName === "SELECT") return;
     if (e.key >= "1" && e.key <= "4") choose(Number(e.key) - 1);
-    else if (e.key === "Enter" && answered) { e.preventDefault(); next(); }
+    else if (e.key === "Enter" && answers[view] !== undefined && e.target.tagName !== "BUTTON") { e.preventDefault(); next(); }
   });
 
   async function loadBank() {

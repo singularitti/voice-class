@@ -33,7 +33,8 @@
         <legend>Number of questions</legend>
         <div class="size-options" id="size-options"></div>
       </fieldset>
-      <p class="lede" id="load-error" hidden>Couldn't load the questions. If you opened this file directly, serve the folder
+      <p class="lede" id="load-error" hidden>Couldn't load the questions. If you opened this file directly, serve the
+        folder
         instead (<code>python3 -m http.server</code>) and reload.</p>
       <button class="btn primary" id="btn-start">Begin quiz</button>
       <p class="meta" id="best-line" hidden></p>
@@ -41,7 +42,11 @@
 
     <section id="screen-quiz" class="screen" hidden>
       <header class="quiz-head">
-        <span id="progress-text">Question 1 of 50</span>
+        <nav class="qnav" aria-label="Question navigation">
+          <button class="navbtn" id="btn-prev" aria-label="Previous question">&lt;</button>
+          <select id="q-select" aria-label="Jump to question"></select>
+          <button class="navbtn" id="btn-fwd" aria-label="Next question">&gt;</button>
+        </nav>
         <span id="score-text">0 correct</span>
       </header>
       <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="50" aria-valuenow="0" id="bar"><i

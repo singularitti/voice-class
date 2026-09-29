@@ -151,6 +151,24 @@ h3 { font-size: 1.05rem; margin: 28px 0 10px; }
   margin-bottom: 8px;
 }
 
+.quiz-head { align-items: center; }
+.qnav { display: flex; gap: 6px; align-items: center; }
+.navbtn, #q-select {
+  font: inherit;
+  font-size: .85rem;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+.navbtn { font-weight: 600; min-width: 34px; }
+.navbtn:hover:not(:disabled), #q-select:hover { border-color: var(--accent); }
+.navbtn:disabled { opacity: .4; cursor: default; }
+.navbtn:focus-visible, #q-select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+#q-select { background: var(--card); }
+
 .bar { height: 6px; border-radius: 6px; background: var(--line); overflow: hidden; }
 .bar i { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 6px; transition: width .35s ease; }
 
