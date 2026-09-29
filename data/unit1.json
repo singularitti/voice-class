@@ -1,0 +1,277 @@
+[
+ {
+  "q": "Which set lists the three major benefits of appropriate body alignment for singers?",
+  "correct": "Easier breathing, reduced tension, and less tiring singing",
+  "distractors": [
+   "Brighter timbre, wider range, and louder volume",
+   "Faster vibrato, cleaner onsets, and clearer diction",
+   "Lower larynx, longer phrases, and better intonation"
+  ],
+  "explain": "The chapter (citing Bunch) lists three benefits: breathing is easier, tension is reduced, and singing is less tiring.",
+  "source": "guide"
+ },
+ {
+  "q": "When following the imaginary alignment line, where should it pass in relation to the ankle?",
+  "correct": "Just in front of the ankle",
+  "distractors": [
+   "Directly through the back of the heel",
+   "Well behind the ankle",
+   "Through the ball of the foot"
+  ],
+  "explain": "The line passes through the back of the ear, shoulder, hip, and knee, and finally just in front of the ankle.",
+  "source": "guide"
+ },
+ {
+  "q": "Why do many teachers prefer the term \"body alignment\" to \"posture\"?",
+  "correct": "\"Posture\" suggests rigid, militaristic tension, while singing requires flexibility",
+  "distractors": [
+   "\"Posture\" describes only how the feet are placed, while alignment covers the whole body",
+   "\"Posture\" is a medical term for spinal disorders and has no meaning in singing",
+   "\"Alignment\" implies that every singer must adopt one identical, fixed position"
+  ],
+  "explain": "The book notes that \"posture\" conjures rigid, militaristic tension, whereas the dynamic nature of singing requires flexibility rather than rigidity.",
+  "source": "guide"
+ },
+ {
+  "q": "A singer's body should be \"dynamically stabilized rather than rigidly held.\" What does this mean?",
+  "correct": "The body stays balanced and stable while remaining flexible",
+  "distractors": [
+   "The body stays completely still while the voice does all of the moving",
+   "The body is locked in place by strong back muscles so that nothing can shift",
+   "The body shifts constantly to keep the singer moving and the breath fresh"
+  ],
+  "explain": "Good alignment is stable without being stiff; the quotation contrasts dynamic stabilization with rigid holding.",
+  "source": "guide"
+ },
+ {
+  "q": "How should the sternum be positioned for singing?",
+  "correct": "Comfortably high, with a sense of buoyancy",
+  "distractors": [
+   "As high as possible, like a military posture",
+   "Curled slightly down toward the belly button",
+   "Held level with the shoulders and pushed forward"
+  ],
+  "explain": "The sternum should be reasonably high to lift the ribs and create space for breathing, but not artificially high.",
+  "source": "guide"
+ },
+ {
+  "q": "What is the main breathing-related consequence of a collapsed chest, such as when slumping in a chair?",
+  "correct": "Breath control suffers",
+  "distractors": [
+   "The larynx rises too high",
+   "The vocal folds cannot close",
+   "The soft palate lowers permanently"
+  ],
+  "explain": "The chapter warns that if the chest is collapsed while seated, breath control will suffer; the sternum should stay comfortably elevated.",
+  "source": "guide"
+ },
+ {
+  "q": "What is the problem with holding the sternum artificially high?",
+  "correct": "The lower back becomes over-arched",
+  "distractors": [
+   "The shoulders roll forward",
+   "The knees are pushed into a locked position",
+   "The chin is pulled back toward the neck"
+  ],
+  "explain": "The book says the sternum should not be so high that the back is over-arched, as in a military posture.",
+  "source": "guide"
+ },
+ {
+  "q": "For many styles of singing, how should the chin be positioned relative to the ground?",
+  "correct": "Parallel with the ground, allowing the larynx flexibility",
+  "distractors": [
+   "Raised well above parallel, to open the throat and lift the sound",
+   "Tucked down firmly against the chest, to stabilize the larynx",
+   "Pulled back toward the shoulders so the neck is fully straight"
+  ],
+  "explain": "For many styles the chin is parallel with the ground so the larynx has some flexibility.",
+  "source": "guide"
+ },
+ {
+  "q": "Why is it important to avoid locking the knees while singing?",
+  "correct": "Locked knees go with tensed quadriceps, tensed lower back, and swayback",
+  "distractors": [
+   "Locked knees cause the diaphragm to stop moving during inhalation and exhalation",
+   "Locked knees force the head to tilt too far up and shorten the neck",
+   "Locked knees move the alignment line behind the ankle and tip the pelvis forward"
+  ],
+  "explain": "The book associates locked knees with tensed quadriceps, tensed lower back muscles, and an undesirable swayback posture.",
+  "source": "guide"
+ },
+ {
+  "q": "Why should singers avoid superfluous body movements while singing?",
+  "correct": "They expend energy unproductively and add tension to breathing and the vocal tract",
+  "distractors": [
+   "They make the choir look less uniform to the audience and distract the conductor from the beat",
+   "They raise the larynx, darken the tone, and shorten the singer's breath cycle",
+   "They automatically lower the sternum and reduce the space for the lungs to expand"
+  ],
+  "explain": "Extraneous movement wastes energy and introduces tension affecting breathing and the vocal tract, causing strain and poor tone.",
+  "source": "guide"
+ },
+ {
+  "q": "According to the chapter, what does correct body alignment do for the ribs and lungs?",
+  "correct": "It elevates the ribs, allowing greater lung expansion",
+  "distractors": [
+   "It lowers the ribs, compressing the lungs for power",
+   "It locks the ribs, keeping the lungs still",
+   "It spreads the ribs, so the diaphragm is not needed"
+  ],
+  "explain": "Correct alignment elevates the ribs, which allows greater lung expansion and finer control of breathing.",
+  "source": "book"
+ },
+ {
+  "q": "How should a singer place the feet to support balance while standing?",
+  "correct": "A shoulder's width apart, with one foot slightly in front of the other",
+  "distractors": [
+   "Together, with the toes pointed straight ahead and the weight on the heels",
+   "Wide apart, with the weight on the balls of the feet and the toes turned out",
+   "Crossed at the ankles, with the weight on the heels and the toes turned inward"
+  ],
+  "explain": "Feet directly beneath the shoulders aid balance, and one foot slightly forward counteracts any tendency to rock side to side.",
+  "source": "book"
+ },
+ {
+  "q": "According to Vennard's X-ray studies, what happens when a singer pulls the head back?",
+  "correct": "The larynx is depressed excessively, producing a \"woofy\" sound",
+  "distractors": [
+   "The larynx rises sharply and the jaw clenches, producing a shrill, pinched sound",
+   "The jaw loosens and the tongue retracts, producing a breathy, unfocused sound",
+   "The soft palate lowers and the tongue flattens, producing a nasal, honky sound"
+  ],
+  "explain": "Pulling the head back depresses the larynx excessively, creating extraneous tension and a \"woofy\" sound.",
+  "source": "book"
+ },
+ {
+  "q": "Why may a contemporary singer performing belting use a raised chin?",
+  "correct": "A raised chin accommodates the rise of the larynx for a bright sound",
+  "distractors": [
+   "A raised chin lowers the larynx and darkens the tone for a more classical quality",
+   "A raised chin releases the jaw at the back and lets the tongue root drop",
+   "A raised chin helps the singer see the conductor over the top of the music folder"
+  ],
+  "explain": "In belting, the larynx may rise to create a bright sound, and raising the chin accommodates that rise.",
+  "source": "book"
+ },
+ {
+  "q": "For classical singing, which head position is described as desirable?",
+  "correct": "A slight tilt down, allowing a lower, stable larynx",
+  "distractors": [
+   "A strong tilt up, allowing a higher larynx",
+   "A head pulled back, keeping the neck long",
+   "A chin jutted forward, opening the vocal tract"
+  ],
+  "explain": "Classical singing favors a slight downward tilt for a lower, stable larynx, but too much tilt makes releasing the jaw difficult.",
+  "source": "book"
+ },
+ {
+  "q": "Why does the book recommend holding a music folder relatively high?",
+  "correct": "Only the eyes need to move to see the music and the conductor",
+  "distractors": [
+   "It raises the sternum to its highest possible position and opens the ribs",
+   "It keeps the weight of the folder off the heels and onto the toes",
+   "It allows the singer to keep the chin tilted downward while reading the score"
+  ],
+  "explain": "Singers holding music high need only move their eyes, whereas low folders force the chin to tilt down and then up.",
+  "source": "book"
+ },
+ {
+  "q": "What harm can a poorly positioned music folder do to the sound?",
+  "correct": "It interferes with the path of sound and attenuates higher harmonics",
+  "distractors": [
+   "It blocks air from reaching the lungs and forces the singer to breathe more often",
+   "It forces the larynx to drop too low and strengthens the darker vowel colors",
+   "It strengthens the fundamental at the expense of vowels and lowers pitch accuracy"
+  ],
+  "explain": "A folder that interferes with the path of sound attenuates the critical higher harmonic frequencies.",
+  "source": "book"
+ },
+ {
+  "q": "Holding a music folder tends to shift the singer's balance forward. What is the suggested remedy?",
+  "correct": "Move some weight to the heels without leaning back",
+  "distractors": [
+   "Lean back slightly to offset the weight",
+   "Shift weight onto the balls of the feet",
+   "Lock the knees to steady the body"
+  ],
+  "explain": "The book suggests moving some weight to the heels without leaning back to avoid back and shoulder problems.",
+  "source": "book"
+ },
+ {
+  "q": "Why does the book not recommend clasping the hands together in front or behind the body?",
+  "correct": "It creates unproductive tension in the arms and shoulders",
+  "distractors": [
+   "It pulls the sternum down toward the belly and reduces the rib expansion",
+   "It locks the knees in place and shifts weight onto the balls of the feet",
+   "It prevents the singer from seeing the conductor or turning the pages easily"
+  ],
+  "explain": "Clasped hands create unproductive tension in the arms and shoulders; arms should hang at the sides when singing from memory.",
+  "source": "book"
+ },
+ {
+  "q": "Why is clenching the feet a surprisingly common problem?",
+  "correct": "Singers often transfer tension to another muscle group as they release it elsewhere",
+  "distractors": [
+   "Singers grip the floor with the toes in an effort to raise the sternum and lift the chest",
+   "Singers lock the ankles and tighten the calves in order to stay upright on a slippery floor",
+   "Singers tighten the toes automatically whenever the chin is lowered below parallel"
+  ],
+  "explain": "As singers release extraneous tension in one muscle group, they often make the mistake of transferring it to another.",
+  "source": "book"
+ },
+ {
+  "q": "What effect can high-heeled shoes have on posture, according to the chapter?",
+  "correct": "A backward tilt of the pelvis and displacement of the thoracic spine and head",
+  "distractors": [
+   "A forward tilt of the pelvis and a raised chin that shortens the back of the neck",
+   "Locked knees and a forward-hunched chest that collapses the ribs over the diaphragm",
+   "Perfect balance that removes the need for any further attention to alignment"
+  ],
+  "explain": "Research cited in the chapter shows high heels tilt the pelvis backward and displace the thoracic spine and head backward.",
+  "source": "book"
+ },
+ {
+  "q": "According to the chapter, what is often behind a singer's excess body movement?",
+  "correct": "Nervousness, or compensation for a missing element such as breath support",
+  "distractors": [
+   "A lack of interest in the music being sung and in the audience's reaction to it",
+   "An overly relaxed posture with unlocked knees and a slightly lowered sternum",
+   "Sitting too far back in the chair, or standing too near the accompanist"
+  ],
+  "explain": "Movement often responds to nervousness and tension, or compensates for a missing technique element like breath support.",
+  "source": "book"
+ },
+ {
+  "q": "Which type of chair does the chapter describe as optimal for a seated singer?",
+  "correct": "Fairly flat, without arms",
+  "distractors": [
+   "Deeply cushioned, with arms",
+   "Sloped upward at the front, without arms",
+   "Low and reclined, with arms"
+  ],
+  "explain": "Raised fronts such as church pews fold the body inward, and armchairs lead to raised shoulders, so flat armless seats are best.",
+  "source": "book"
+ },
+ {
+  "q": "In the \"rag doll\" exercise, what does the singer do after slowly rolling the torso up to standing?",
+  "correct": "Inhales fully, then sings a prolonged [ɑ] or exhales on [s]",
+  "distractors": [
+   "Holds the breath while shaking the arms, then hums on a low pitch",
+   "Sings a lip trill while walking in place and gently tapping the sternum",
+   "Hums on a low pitch while locking the knees and lifting the chin"
+  ],
+  "explain": "After rolling up with the sternum comfortably high, the singer inhales fully (not excessively) and sings [ɑ] or exhales on [s].",
+  "source": "book"
+ },
+ {
+  "q": "What is an \"overeager\" posture?",
+  "correct": "Holding the music too high, leaning forward, and lifting the chin",
+  "distractors": [
+   "Holding the music too low, leaning back, and dropping the chin",
+   "Rounding the shoulders, collapsing the chest, and slouching",
+   "Locking the knees, swaying back, and clenching the hands"
+  ],
+  "explain": "The chapter defines overeager posture as holding music too high, leaning forward, and lifting the chin.",
+  "source": "book"
+ }
+]

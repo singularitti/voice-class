@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Voice Class Quiz</title>
+  <meta name="description" content="A randomized practice quiz for Vocal Technique, Chapters 1–8.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎼</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card" id="app" aria-live="polite">
+
+    <section id="screen-start" class="screen">
+      <p class="eyebrow">Vocal Technique · Chapters 1–8</p>
+      <h1>Voice Class Quiz</h1>
+      <p class="lede">Questions are drawn at random from a bank of <span id="bank-size">200</span>. Answer options are reshuffled every time.</p>
+      <ul class="units" id="unit-list"></ul>
+      <fieldset class="sizes">
+        <legend>Number of questions</legend>
+        <div class="size-options" id="size-options"></div>
+      </fieldset>
+      <button class="btn primary" id="btn-start">Begin quiz</button>
+      <p class="meta" id="best-line" hidden></p>
+    </section>
+
+    <section id="screen-quiz" class="screen" hidden>
+      <header class="quiz-head">
+        <span id="progress-text">Question 1 of 50</span>
+        <span id="score-text">0 correct</span>
+      </header>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="50" aria-valuenow="0" id="bar"><i id="bar-fill"></i></div>
+      <p class="unit-tag" id="unit-tag"></p>
+      <h2 id="question"></h2>
+      <div class="options" id="options" role="group" aria-labelledby="question"></div>
+      <div class="feedback" id="feedback" hidden>
+        <strong id="feedback-title"></strong>
+        <p id="feedback-text"></p>
+      </div>
+      <div class="actions">
+        <button class="btn primary" id="btn-next" hidden>Next</button>
+      </div>
+      <p class="meta hint">Tip: press 1–4 to answer, Enter for next.</p>
+    </section>
+
+    <section id="screen-result" class="screen" hidden>
+      <p class="eyebrow">Results</p>
+      <div class="score-ring" id="ring"><span id="result-pct">0%</span></div>
+      <h1 id="result-headline"></h1>
+      <p class="lede" id="result-sub"></p>
+      <h3>By unit</h3>
+      <ul class="breakdown" id="breakdown"></ul>
+      <details id="review" open>
+        <summary>Review missed questions (<span id="missed-count">0</span>)</summary>
+        <div id="missed-list"></div>
+      </details>
+      <div class="actions">
+        <button class="btn primary" id="btn-again">New quiz</button>
+        <button class="btn" id="btn-home">Home</button>
+      </div>
+    </section>
+
+  </main>
+  <footer class="foot">Based on Davids &amp; LaTour, <em>Vocal Technique</em> (2nd ed.) and the class study guide.</footer>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

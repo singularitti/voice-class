@@ -1,0 +1,277 @@
+[
+ {
+  "q": "Which description best defines vibrato?",
+  "correct": "A natural oscillation in pitch resulting from healthy vocal function",
+  "distractors": [
+   "A deliberate pulsing of the breath that is added to the tone for expressive effect",
+   "A steady, unwavering pitch produced by firm glottal closure and high breath pressure",
+   "A slow wavering of the tone that is caused by a lack of breath support"
+  ],
+  "explain": "The chapter describes vibrato as an oscillation in pitch that occurs naturally when the larynx is relaxed and functioning healthily.",
+  "source": "guide"
+ },
+ {
+  "q": "Which set lists the four main vibrato descriptors?",
+  "correct": "Rate, extent, jitter, and shimmer",
+  "distractors": [
+   "Rate, pitch, timbre, and shimmer",
+   "Extent, tremolo, wobble, and jitter",
+   "Rate, extent, intensity, and register"
+  ],
+  "explain": "The text names rate, extent, jitter, and shimmer as the four main vibrato descriptors.",
+  "source": "guide"
+ },
+ {
+  "q": "In vibrato terminology, what does vibrato rate describe?",
+  "correct": "The number of oscillations per second",
+  "distractors": [
+   "How far the pitch moves above and below the mean",
+   "The variability of the oscillation intensity",
+   "The variability of the oscillation speed"
+  ],
+  "explain": "Rate is the number of oscillations per second, i.e., how fast the vibrato oscillates.",
+  "source": "guide"
+ },
+ {
+  "q": "Which vibrato descriptor tells how wide the pitch variation is above and below the mean pitch?",
+  "correct": "Extent",
+  "distractors": [
+   "Rate",
+   "Jitter",
+   "Shimmer"
+  ],
+  "explain": "Extent is how far above and below the mean pitch the oscillation travels.",
+  "source": "guide"
+ },
+ {
+  "q": "A singer's vibrato speed varies unpredictably from one oscillation to the next. Which descriptor names this?",
+  "correct": "Jitter",
+  "distractors": [
+   "Shimmer",
+   "Extent",
+   "Tremolo"
+  ],
+  "explain": "Jitter is variability (irregularity) of the vibrato rate.",
+  "source": "guide"
+ },
+ {
+  "q": "A singer's vibrato speed is steady, but the loudness of each oscillation fluctuates irregularly. Which descriptor names this?",
+  "correct": "Shimmer",
+  "distractors": [
+   "Jitter",
+   "Rate",
+   "Extent"
+  ],
+  "explain": "Shimmer is variability (irregularity) of the vibrato's intensity.",
+  "source": "guide"
+ },
+ {
+  "q": "Most sources recommend a vibrato rate falling within which range?",
+  "correct": "5–8 oscillations per second",
+  "distractors": [
+   "2–4 oscillations per second",
+   "8–10 oscillations per second",
+   "10–12 oscillations per second"
+  ],
+  "explain": "The vast majority of recommended ideal rates fall within 5–8 oscillations per second (Hz).",
+  "source": "guide"
+ },
+ {
+  "q": "How does the text characterize \"straight tone\" at the physiological level?",
+  "correct": "The listener's perception of a sound with minimal vibrato, since some oscillation is always present",
+  "distractors": [
+   "A tone with no pitch oscillation at all, which can be achieved only by very firm glottal closure and a raised larynx",
+   "A tone with a fast, tight vibrato of 8–10 oscillations per second",
+   "A tone produced only with a breathy onset and high larynx"
+  ],
+  "explain": "Nerve pulses always cause some variation in pitch, so straight tone is only the perception of minimal vibrato.",
+  "source": "guide"
+ },
+ {
+  "q": "Wobble is best described as which of the following, and what commonly causes it?",
+  "correct": "A slow, wide, inconsistent vibrato, often from weak breath support or aging",
+  "distractors": [
+   "A very fast, narrow vibrato, often from excess breath pressure or a very tight jaw",
+   "A slow, narrow vibrato, often from a breathy onset and a very low larynx position",
+   "A fast, wide vibrato, often from a jaw that is too relaxed and a lowered larynx"
+  ],
+  "explain": "Wobble is an excessively slow vibrato with wide, inconsistent extent, typically resulting from lack of breath support, aging, slack folds, or poor laryngeal muscle condition.",
+  "source": "guide"
+ },
+ {
+  "q": "A singer's vibrato is excessively fast, and the tone sounds strident and harsh. What is the usual cause?",
+  "correct": "Excess laryngeal tension and breath pressure",
+  "distractors": [
+   "Weak abdominal muscles and low breath pressure",
+   "Slack vocal folds with insufficient glottal closure",
+   "Too little use of the voice from lack of singing"
+  ],
+  "explain": "Tremolo, a very fast vibrato, is usually caused by excessive breath pressure and laryngeal tension.",
+  "source": "guide"
+ },
+ {
+  "q": "According to Seashore's conclusion, why is much of the most beautiful vibrato not heard as vibrato?",
+  "correct": "It falls below the threshold for vibrato hearing and is perceived as tone quality",
+  "distractors": [
+   "It is masked by the singer's formant in the upper range and by orchestral accompaniment",
+   "It occurs only at the very end of a phrase, where the audience tends to ignore it completely",
+   "It is too fast for the ear to follow, so it is perceived as noise rather than pitch"
+  ],
+  "explain": "Seashore concluded that much beautiful vibrato is below the threshold for vibrato hearing and is perceived merely as tone quality.",
+  "source": "book"
+ },
+ {
+  "q": "A total vibrato variation of 100 cents corresponds to which pitch movement?",
+  "correct": "A quarter step above and a quarter step below the sung pitch",
+  "distractors": [
+   "A half step above and a half step below the sung pitch, for a total of 200 cents",
+   "A whole step above and below the sung pitch, for a total of 400 cents",
+   "A quarter step total, split evenly above and below the sung pitch"
+  ],
+  "explain": "The text says a total variation of a half step equals 100 cents, i.e., one quarter step above and below the sung pitch.",
+  "source": "book"
+ },
+ {
+  "q": "Why do authorities recommend a moderate vibrato extent of about 100 cents?",
+  "correct": "Listeners hear the fundamental and interpret the variation as tonal richness",
+  "distractors": [
+   "Wider extents are physically impossible for most healthy larynges to produce or sustain",
+   "Listeners then hear each extreme pitch as a separate note rather than as one tone",
+   "It keeps the vibrato rate above eight oscillations per second at all pitch levels"
+  ],
+  "explain": "With extent no greater than about 100 cents, the varying pitch fuses with the fundamental, so listeners hear richness rather than pitch excursions.",
+  "source": "book"
+ },
+ {
+  "q": "In the study cited, how did opera soloists' vibrato extent compare with that in lieder (art song)?",
+  "correct": "Opera averaged about 150 cents; lieder was closer to 100 cents",
+  "distractors": [
+   "Opera averaged about 100 cents; lieder was closer to 150 cents",
+   "Both averaged about 200 cents",
+   "Opera averaged about 50 cents; lieder was closer to 30 cents"
+  ],
+  "explain": "Johnson-Read and Schubert found opera soloists averaging 150 cents, while lieder extents were on the order of a moderate 100 cents.",
+  "source": "book"
+ },
+ {
+  "q": "What is terminal vibrato?",
+  "correct": "Vibrato added mid-note, widening as the note is sustained, often with rising sound level",
+  "distractors": [
+   "Vibrato produced on every note of a phrase at a constant rate and extent",
+   "Vibrato deliberately narrowed toward the end of a phrase to show tuning",
+   "Vibrato forced by pulsing the breath or moving the jaw on a final note"
+  ],
+  "explain": "Terminal vibrato adds vibrato in the middle of a note and widens it as the note is sustained, often with a sound level increase so the note blossoms.",
+  "source": "book"
+ },
+ {
+  "q": "According to Large and Iwata, why can suppressing vibrato be tiring?",
+  "correct": "Vibrato involves alternating contraction and relaxation of the laryngeal muscles",
+  "distractors": [
+   "Vibrato increases airflow, so the breath is used more efficiently over a long phrase",
+   "Suppressing vibrato forces the larynx to rise excessively and shortens the vocal tract",
+   "Vibrato keeps the vocal folds firmly pressed together, so suppressing it loosens them"
+  ],
+  "explain": "Because vibrato alternates contraction and relaxation of the laryngeal muscles, it helps prevent vocal fatigue, and suppressing it can be tiring.",
+  "source": "book"
+ },
+ {
+  "q": "Why is vibrato used less consistently in belting and pop/rock than in classical singing?",
+  "correct": "Production is more speech-like, and speech does not generally involve vibrato",
+  "distractors": [
+   "These styles use a higher larynx position that prevents any oscillation of the pitch",
+   "These styles require firmer glottal closure than classical singing does, which blocks vibrato",
+   "Amplification makes natural vibrato physiologically impossible for the singer to produce"
+  ],
+  "explain": "The text links the restricted use of vibrato in contemporary styles to production being more speech-like, which generally lacks vibrato unless expressing strong emotion.",
+  "source": "book"
+ },
+ {
+  "q": "On the 1 (very relaxed) to 7 (very firm) glottal closure scale, which level gives the highest potential for vibrato?",
+  "correct": "Level 4",
+  "distractors": [
+   "Level 1",
+   "Level 2",
+   "Level 7"
+  ],
+  "explain": "Moderate closure (3, 4, or 5) supports vibrato, and level 4 provides the highest potential and is the starting point.",
+  "source": "book"
+ },
+ {
+  "q": "What is a likely consequence of forcing vibrato through breath pulsation, throat manipulation, or jaw movement?",
+  "correct": "An inconsistent vibrato with excessive pitch variation and elevated tension",
+  "distractors": [
+   "A very regular vibrato with narrow extent and low energy use",
+   "A gradual lowering of the vibrato rate toward 5 oscillations per second",
+   "A stronger fundamental frequency and better breath support"
+  ],
+  "explain": "Artificial methods create an inconsistent vibrato that varies excessively in pitch and involve extra tension and energy expenditure.",
+  "source": "book"
+ },
+ {
+  "q": "How does the text explain the effect of a tense jaw on vibrato?",
+  "correct": "Its mass, interconnected with the cricothyroids, slows the rate and may produce a wobble",
+  "distractors": [
+   "It speeds up the vibrato rate and produces a tremolo, because the jaw muscles add extra pulsation",
+   "It flattens the pitch and narrows the extent, so the tone becomes a completely straight tone",
+   "It has no effect on vibrato, because the jaw is not anatomically linked to the larynx at all"
+  ],
+  "explain": "Cricothyroid muscles interconnect with jaw muscles, and the jaw's substantial mass inevitably slows the vibrato rate, potentially causing a wobble.",
+  "source": "book"
+ },
+ {
+  "q": "According to longitudinal studies, how does voice training affect vibrato rate?",
+  "correct": "It lowers rates that start high and raises rates that start low",
+  "distractors": [
+   "It raises all vibrato rates toward 10 oscillations per second",
+   "It lowers all vibrato rates toward 5 oscillations per second",
+   "It fixes the rate but has no effect on consistency"
+  ],
+  "explain": "Studies show training lowers initially high rates, raises initially low rates, and increases vibrato consistency.",
+  "source": "book"
+ },
+ {
+  "q": "Why is vibrato naturally less controllable at the low and high extremes of the range?",
+  "correct": "One muscle group dominates with insufficient opposition from the other",
+  "distractors": [
+   "The vocal folds are always too slack at the extremes of the range to allow oscillation",
+   "Breath pressure must be reduced at both extremes, and this stops the oscillation",
+   "The larynx must sit too low at both extremes to permit any natural pulsation"
+  ],
+  "explain": "The thyroarytenoids dominate low and the cricothyroids high, and without adequate opposition, muscular pulsations are less controlled.",
+  "source": "book"
+ },
+ {
+  "q": "Why is it misguided to suppress vibrato because singers' vibratos are out of phase with each other?",
+  "correct": "The ear perceives pitch as the average of the high and low values regardless of phase",
+  "distractors": [
+   "Vibratos of different singers always synchronize with each other during a sustained chord",
+   "Out-of-phase vibratos raise the pitch of the ensemble slightly above the written pitch",
+   "Out-of-phase vibratos make dissonant beats easier to hear, so the choir sounds out of tune"
+  ],
+  "explain": "The ear hears the average pitch whether or not vibrato rates are synchronized, and differing rates tend to balance out into richness of tone.",
+  "source": "book"
+ },
+ {
+  "q": "What does Sublett suggest a director might ask for instead of \"straight tone\"?",
+  "correct": "A pure, clear, focused tone right in the center of the pitch",
+  "distractors": [
+   "A breathy, light tone with a slightly raised larynx and very little vibrato",
+   "A tone with the jaw and tongue held very still and the larynx held very low",
+   "A quiet tone sung with the softest possible dynamic and no expression at all"
+  ],
+  "explain": "Sublett recommends translating \"straighten out your tone\" into \"purify or focus the tone,\" which avoids unhealthy tension.",
+  "source": "book"
+ },
+ {
+  "q": "What evidence do the Vox Humana organ stops offer regarding vibrato in early music?",
+  "correct": "They imitated the human voice with a vibrato-like effect and were installed before 1750",
+  "distractors": [
+   "They were designed to remove vibrato and were installed only after 1750",
+   "They imitated boy sopranos and were used only in small chapels",
+   "They were tuned to produce a perfectly steady tone like a straight-tone voice"
+  ],
+  "explain": "Vox Humana stops were built to imitate the voice with an undulating, vibrato-like effect and were installed in organs as early as 1537, suggesting singers used vibrato.",
+  "source": "book"
+ }
+]

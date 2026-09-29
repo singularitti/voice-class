@@ -1,0 +1,277 @@
+[
+ {
+  "q": "What is described as the foundation of singing?",
+  "correct": "Breath control",
+  "distractors": [
+   "Vocal registration",
+   "Vowel modification",
+   "Resonance placement"
+  ],
+  "explain": "The chapter opens by stating that breathing is the foundation of singing; without a developed foundation, satisfactory results cannot be built.",
+  "source": "guide"
+ },
+ {
+  "q": "Which sequence lists the four phases of the breathing cycle in singing in order?",
+  "correct": "Inhalation, suspension, exhalation, recovery",
+  "distractors": [
+   "Inhalation, exhalation, suspension, recovery",
+   "Suspension, inhalation, recovery, exhalation",
+   "Inhalation, recovery, suspension, exhalation"
+  ],
+  "explain": "The four phases are inhalation, a very brief suspension of airflow, exhalation, and recovery (a brief release of tension in the breathing muscles).",
+  "source": "guide"
+ },
+ {
+  "q": "Which two major muscles contract during inhalation for singing?",
+  "correct": "The diaphragm and the external intercostals",
+  "distractors": [
+   "The internal intercostals and the abdominals",
+   "The diaphragm and the internal obliques",
+   "The sternocleidomastoids and the scalenes"
+  ],
+  "explain": "The diaphragm and the external intercostals (outer rib muscles) are the two major muscles contracted during inhalation.",
+  "source": "guide"
+ },
+ {
+  "q": "Which areas should visibly expand during a correct inhalation for singing?",
+  "correct": "The ribs and the abdomen",
+  "distractors": [
+   "The shoulders and the upper chest",
+   "The lower abdomen below the navel only",
+   "The collar bones and the neck"
+  ],
+  "explain": "Expansion of the ribs and abdomen should be visible and is a good sign that the singer is inhaling correctly.",
+  "source": "guide"
+ },
+ {
+  "q": "Which of these is a sure sign of unproductive tension during inhalation?",
+  "correct": "Raising the shoulders",
+  "distractors": [
+   "Slight outward movement of the ribs",
+   "Slight expansion of the back",
+   "Keeping the sternum comfortably high"
+  ],
+  "explain": "Shoulder movement, even when it is not upper chest breathing, is a sure sign of unproductive tension and leads to neck tension.",
+  "source": "guide"
+ },
+ {
+  "q": "What is clavicular breathing?",
+  "correct": "Upper chest breathing in which the collar bones and shoulders move",
+  "distractors": [
+   "Breathing in which only the ribs and the back expand, with the abdomen held still",
+   "Breathing through the nose with the mouth closed and the shoulders relaxed downward",
+   "Breathing in which the lower abdomen is pushed out while the chest stays fixed"
+  ],
+  "explain": "Clavicular (collar bone) breathing is commonly known as upper chest breathing, and shoulder movement often accompanies it.",
+  "source": "guide"
+ },
+ {
+  "q": "Why is clavicular breathing considered inefficient for singers?",
+  "correct": "It supplies too little air and gives poor control of exhalation",
+  "distractors": [
+   "It overfills the lungs and speeds up exhalation, causing a rushed, forced tone",
+   "It relaxes the abdomen too much to provide any breath support at all",
+   "It forces the diaphragm to descend too far and pushes the larynx upward"
+  ],
+  "explain": "The upper lungs hold less air than the lower area, and the abdominal muscles are not used, so there is insufficient air and poor control over exhalation.",
+  "source": "guide"
+ },
+ {
+  "q": "In singing, breath support means delivering what?",
+  "correct": "The right level of breath pressure to the vocal folds",
+  "distractors": [
+   "The largest possible volume of air to the lungs before every phrase",
+   "The slowest possible airflow through the glottis at all dynamic levels",
+   "A steady rate of inhalation between phrases, regardless of the tempo"
+  ],
+  "explain": "The chapter defines breath support as delivering the right level of breath pressure to the vocal folds.",
+  "source": "guide"
+ },
+ {
+  "q": "The term \"appoggio\" refers to which idea?",
+  "correct": "Dynamic tension between the inhalation and exhalation muscles",
+  "distractors": [
+   "A brief pause between inhalation and exhalation while the glottis stays closed",
+   "Silent inhalation through a fully open glottis and a lowered soft palate",
+   "Total relaxation of the breathing muscles after each phrase is finished"
+  ],
+  "explain": "Lamperti's term appoggio (\"to lean upon\") names the dynamic tension between the muscles of inhalation and exhalation that delivers breath pressure.",
+  "source": "guide"
+ },
+ {
+  "q": "What distinguishes breath metering from breath support?",
+  "correct": "Metering conserves air use; support modulates breath pressure",
+  "distractors": [
+   "Metering governs inhalation; support governs exhalation",
+   "Metering is for classical styles; support is for contemporary styles",
+   "Metering controls vocal fold closure; support controls vibrato"
+  ],
+  "explain": "Breath metering is conserving air to complete phrases, while breath support modulates breath pressure; both make up breath control.",
+  "source": "guide"
+ },
+ {
+  "q": "According to the text, what does noise during inhalation indicate?",
+  "correct": "Constriction in the throat",
+  "distractors": [
+   "A fully open glottis",
+   "Correct abdominal release",
+   "An overly high sternum"
+  ],
+  "explain": "Breath intake should be noiseless because noise indicates throat constriction, which inhibits tone quality.",
+  "source": "book"
+ },
+ {
+  "q": "Which of these is listed as a typical cause of noisy inhalation?",
+  "correct": "Tongue contracted too far back in the throat",
+  "distractors": [
+   "Soft palate lifted too high while the jaw stays closed",
+   "Jaw lowered too far, which stretches the lips and cheeks",
+   "Abdominal muscles too relaxed to allow the ribs to expand"
+  ],
+  "explain": "Typical causes include a too-relaxed soft palate, insufficiently lowered jaw, tongue too far back, and tense muscles around the vocal tract.",
+  "source": "book"
+ },
+ {
+  "q": "What is the benefit of inhaling with the tongue, mouth, and jaw in the position of the vowel about to be sung?",
+  "correct": "It avoids an unwanted change of vowel sound as singing begins",
+  "distractors": [
+   "It lets the lungs fill more slowly and completely before the first note",
+   "It keeps the soft palate relaxed and the larynx high during suspension",
+   "It raises the sternum higher for the breath and lengthens the phrase"
+  ],
+  "explain": "This is efficient and avoids an unpleasant changing vowel sound as singing is initiated.",
+  "source": "book"
+ },
+ {
+  "q": "Why should a singer avoid filling the lungs as much as possible?",
+  "correct": "It speeds up exhalation and may create chest and neck tension",
+  "distractors": [
+   "It closes the glottis too tightly during suspension and traps the air",
+   "It forces the diaphragm to rise before phrasing begins and expels the air",
+   "It prevents the ribs from moving outward and locks the sternum in place"
+  ],
+  "explain": "Overfilling increases the rate of exhalation, defeating the purpose of a large breath, and can cause excess tension in the chest, neck, and larynx.",
+  "source": "book"
+ },
+ {
+  "q": "What is a risk of long, drawn-out suspension exercises for less-experienced singers?",
+  "correct": "Tense laryngeal muscles and a hard onset",
+  "distractors": [
+   "An over-relaxed abdominal wall",
+   "A breathy tone from an open glottis",
+   "Raised shoulders and clavicular breathing"
+  ],
+  "explain": "Such singers tend to tense laryngeal and neck muscles and close the glottis too tightly, which may encourage a hard onset (glottal attack).",
+  "source": "book"
+ },
+ {
+  "q": "Which two main muscle groups contract during exhalation?",
+  "correct": "The internal intercostals and the abdominals",
+  "distractors": [
+   "The external intercostals and the diaphragm",
+   "The diaphragm and the scalenes",
+   "The rectus abdominus and the external intercostals only"
+  ],
+  "explain": "Contraction of the internal rib muscles and the abdominals moves the abdominal contents upward, raising the diaphragm and pushing air out.",
+  "source": "book"
+ },
+ {
+  "q": "How do singers control exhalation, and what benefit comes from delaying the diaphragm's ascent?",
+  "correct": "Via abdominal and rib muscles; finer pressure control and a lowered larynx",
+  "distractors": [
+   "By bouncing the diaphragm; a louder tone and a raised larynx",
+   "Via the diaphragm directly; more airflow at high pitches",
+   "Via the neck muscles; a breathier and more relaxed tone"
+  ],
+  "explain": "Singers control exhalation with abdominal and rib muscles; delaying the diaphragm's rise gives finer pressure control and a tracheal pull that lowers the larynx.",
+  "source": "book"
+ },
+ {
+  "q": "What is true of breath demands when a singer moves to a higher pitch?",
+  "correct": "More breath pressure is needed, but not more airflow",
+  "distractors": [
+   "More airflow is needed, but not more pressure",
+   "Both pressure and airflow must be reduced",
+   "Neither pressure nor airflow needs to change"
+  ],
+  "explain": "Vocal folds are under greater tension at higher pitches, so more force is needed to open them, but high pitches do not require more airflow.",
+  "source": "book"
+ },
+ {
+  "q": "When is additional breath support best engaged for a leap from a low to a high note?",
+  "correct": "Before the move from the low note to the high note",
+  "distractors": [
+   "As the singer arrives on the higher note",
+   "After the high note has been sounded",
+   "Only during the suspension after the leap"
+  ],
+  "explain": "Engaging support only on the higher note can lead to singing under the pitch or scooping up to it.",
+  "source": "book"
+ },
+ {
+  "q": "Why are younger voices, particularly girls' voices, often breathy?",
+  "correct": "The interarytenoids cannot close the back third of the space between the folds",
+  "distractors": [
+   "The abdominal muscles are too strong for the ribs to move outward during inhalation",
+   "The diaphragm rises too quickly during phrases because the ribs are underdeveloped",
+   "The soft palate is held too high and the vocal folds are not thick enough"
+  ],
+  "explain": "Breathiness is tied to adolescent development: certain laryngeal muscles (the interarytenoids) cannot close the back third of the space between the vocal folds.",
+  "source": "book"
+ },
+ {
+  "q": "Which is a tip for staggered breathing in choral singing?",
+  "correct": "Omit consonants when taking a staggered breath",
+  "distractors": [
+   "Come back in louder after breathing",
+   "Have every singer in the section breathe together",
+   "Breathe at the start of a sustained note"
+  ],
+  "explain": "Recommended tips include breathing at different times, choosing a subtle place, coming back in at a lower level, and omitting consonants.",
+  "source": "book"
+ },
+ {
+  "q": "How does dancing affect maximum phonation time (MPT), according to the studies cited?",
+  "correct": "It drops from roughly 20 seconds to about 7 seconds",
+  "distractors": [
+   "It rises from about 7 seconds to 20 seconds",
+   "It stays the same but tone becomes breathier",
+   "It drops from roughly 40 seconds to 20 seconds"
+  ],
+  "explain": "Cardiovascular exertion during dancing decreases MPT, so long phrases and long-held notes require a reduction in dance intensity.",
+  "source": "book"
+ },
+ {
+  "q": "In the sibilant exercise, what is the purpose of saying [s] over an extended period?",
+  "correct": "It restricts airflow so the singer can concentrate on metering the breath",
+  "distractors": [
+   "It closes the vocal folds firmly to prevent air escape and builds pressure below",
+   "It raises the diaphragm quickly so the singer can empty the lungs fully",
+   "It forces the shoulders to lift for a fuller intake and a longer phrase"
+  ],
+  "explain": "Hissing restricts airflow, letting the singer focus on not collapsing the abdomen and ribs until the very end; the vocal folds stay open for [s].",
+  "source": "book"
+ },
+ {
+  "q": "Why are tongue and lip trills especially useful for developing breathing skills?",
+  "correct": "They create high airflow resistance, requiring consistent breath pressure",
+  "distractors": [
+   "They relax the abdominal wall completely so that no breath pressure is needed",
+   "They eliminate the need for suspension and make inhalation shorter and silent",
+   "They lower the larynx by pulling on the trachea and widening the pharynx"
+  ],
+  "explain": "Trills create high resistance to airflow and need excellent technique to maintain consistent pressure; a support lapse interrupts the trill or varies its tone.",
+  "source": "book"
+ },
+ {
+  "q": "In the lying-on-the-back breathing exercise, what order of expansion is a good sign the lungs are filling properly?",
+  "correct": "The abdomen rises first, then the chest expands slightly",
+  "distractors": [
+   "The chest expands first, then the abdomen rises",
+   "The shoulders lift first, then the ribs expand",
+   "The chest and abdomen stay still while the back rises"
+  ],
+  "explain": "The chest may expand slightly, but only after the abdomen has risen, which is good evidence that the lungs are filling properly.",
+  "source": "book"
+ }
+]

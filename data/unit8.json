@@ -1,0 +1,277 @@
+[
+  {
+    "q": "In vocal pedagogy, what is a vocal register?",
+    "correct": "A portion of the singer's range whose pitches share a similar tonal quality and vocal fold behavior",
+    "distractors": [
+      "A set of resonating cavities in the chest and head that amplify specific pitches in a singer's range",
+      "A fixed vowel shape that a singer uses to keep the timbre consistent from the lowest to highest notes",
+      "The total span of pitches from a singer's lowest comfortable note to the highest note they can sing"
+    ],
+    "explain": "The chapter defines registers as portions of a singer's range; pitches within a register have the same general tonal quality because the folds vibrate in a similar way.",
+    "source": "guide"
+  },
+  {
+    "q": "Which muscle activity dominates chest voice, the lower register?",
+    "correct": "Thyroarytenoid (TA) activity, which thickens the folds",
+    "distractors": [
+      "Cricothyroid (CT) activity, which tilts the thyroid cartilage",
+      "Diaphragm activity, which raises subglottal pressure",
+      "Interarytenoid activity, which pulls the arytenoids together"
+    ],
+    "explain": "The lower register is called TA-dominant because the thyroarytenoids underlie the folds and bulge out the bottom part of the fold edge.",
+    "source": "guide"
+  },
+  {
+    "q": "Which muscle activity dominates head voice, the upper register?",
+    "correct": "Cricothyroid (CT) activity, which stretches and thins the folds",
+    "distractors": [
+      "Thyroarytenoid (TA) activity, which thickens the folds",
+      "Cricothyroid (CT) activity, which shortens and thickens the folds",
+      "Thyroarytenoid (TA) activity, which stretches and thins the folds"
+    ],
+    "explain": "In head voice the CT muscles tilt the thyroid cartilage, thinning the folds so that higher pitches are easier; this is why head voice is called CT-dominant.",
+    "source": "guide"
+  },
+  {
+    "q": "What best describes mixed voice (middle register)?",
+    "correct": "A blend of TA and CT control over the vocal folds, giving a distinctive tone",
+    "distractors": [
+      "A blend of chest voice and whistle register, giving a very bright and piercing tone",
+      "Singing chest voice on the ascending line and switching to head voice on the descent",
+      "Any note sung with the vocal tract narrowed and the soft palate lowered for added nasal resonance"
+    ],
+    "explain": "The chapter describes middle register as a blending of thyroarytenoid and cricothyroid control, with a sound spectrum more complex than head voice but less than chest voice.",
+    "source": "guide"
+  },
+  {
+    "q": "How does chestmix differ from headmix?",
+    "correct": "Chestmix has more TA control and allows greater volume; headmix has more CT control and allows softer, higher singing",
+    "distractors": [
+      "Chestmix has more CT control and allows greater volume; headmix has more TA control and allows softer singing",
+      "Chestmix is used only by males and headmix only by females, with equal TA and CT control in both",
+      "Chestmix uses firm glottal closure with no CT involvement; headmix uses reduced closure with no TA involvement"
+    ],
+    "explain": "Chestmix involves more TA control with some CT control and permits higher volume; headmix requires more CT control and permits softer levels and ascending somewhat higher.",
+    "source": "guide"
+  },
+  {
+    "q": "Which emotional or stylistic context typically calls for headmix rather than chestmix?",
+    "correct": "The expression of more tender emotions",
+    "distractors": [
+      "The expression of anger or aggression",
+      "Loud rock and country belting at low pitches",
+      "Rapid coloratura passages above the whistle register"
+    ],
+    "explain": "The chapter notes that the degree of chest versus head emphasis in mixed voice depends on musical context, and that tender emotions typically require headmix rather than chestmix.",
+    "source": "book"
+  },
+  {
+    "q": "What is a passaggio?",
+    "correct": "A transitional area where the voice passes from one register to another",
+    "distractors": [
+      "A rapid scale passage sung on a single breath in legit repertoire",
+      "The pitch at which a singer's first formant matches the fundamental frequency",
+      "A vocalise that connects the chest register directly to the whistle register"
+    ],
+    "explain": "Passaggi (Italian for passages) are the technical name for transition areas between registers, where the voice may change character or even break.",
+    "source": "guide"
+  },
+  {
+    "q": "Which set lists the four actions that help singers negotiate register transitions?",
+    "correct": "Modify vowels and vocal tract shape, change the mode of fold vibration, alter breath pressure, alter closure firmness",
+    "distractors": [
+      "Raise the larynx, widen the vibrato, increase breath pressure, and tighten the closure of the folds",
+      "Modify vowels and vocal tract shape, raise the larynx, increase breath pressure, and shorten the phrase length",
+      "Change the mode of fold vibration, add nasality, increase jaw tension, and alter the singer's posture"
+    ],
+    "explain": "The chapter lists four actions: modify formant frequencies through vowel and tract changes, change the vibration mode (TA versus CT), alter breath pressure, and alter the firmness of vocal fold closure.",
+    "source": "guide"
+  },
+  {
+    "q": "How do male falsetto and male head voice differ in vocal fold contact?",
+    "correct": "In head voice the folds contact along their full length; in falsetto only a portion of the folds makes contact",
+    "distractors": [
+      "In head voice only a portion of the folds makes contact; in falsetto the folds touch along their full length",
+      "In both registers the folds touch along their full length, but falsetto uses less airflow than head voice",
+      "In both registers only the front portion of the folds makes contact, but falsetto has a higher closed quotient"
+    ],
+    "explain": "Falsetto has reduced fold contact and greater airflow than head voice, so it is generally lower in volume and thinner in tone.",
+    "source": "guide"
+  },
+  {
+    "q": "Which description best fits the whistle register?",
+    "correct": "An extremely high register with a flute-like timbre, roughly A5 to G6",
+    "distractors": [
+      "An extremely high register with a pulsing, crackling timbre, roughly A5 to G6",
+      "A high register with a rich, brassy timbre, used mainly by male rock singers around D5 to B5",
+      "A very high register with a breathy timbre, reached by carrying chestmix above G5"
+    ],
+    "explain": "The whistle register has a flute-like timbre with energy mostly in the fundamental and second harmonic, and it ranges from roughly A5 to G6, overlapping female head voice and falsetto.",
+    "source": "guide"
+  },
+  {
+    "q": "Who was the first to observe the vocal folds with a laryngoscope, leading to the concept of vocal registers?",
+    "correct": "Manuel P. Garcia, the 19th-century singing teacher",
+    "distractors": [
+      "Ingo Titze, whose research described the second harmonic in chest voice",
+      "Richard Miller, whose work described the whistle register",
+      "Kenneth Phillips, whose work described children's singing registers"
+    ],
+    "explain": "Garcia noticed that the folds vibrate differently at low versus high pitches, which led him to develop the concept of registers.",
+    "source": "book"
+  },
+  {
+    "q": "Which vibration characteristic contributes to the rich sound of chest voice?",
+    "correct": "A prominent second harmonic and a higher closed quotient than in the upper register",
+    "distractors": [
+      "A dominant fundamental frequency and a lower closed quotient than in the upper register",
+      "A prominent second harmonic and a lower closed quotient than in the upper register",
+      "Greater vertical vibration amplitude with folds that touch over a smaller area"
+    ],
+    "explain": "Lower-register vibration creates a prominent second harmonic, and the higher closed quotient adds to the greater resonance associated with chest voice.",
+    "source": "book"
+  },
+  {
+    "q": "In teaching children to blend registers, in which direction should exercises begin?",
+    "correct": "From the upper register moving down, letting the lower voice emerge naturally",
+    "distractors": [
+      "From the lower register moving up, so the chest voice is fully established first",
+      "From a comfortable speaking pitch, staying entirely within chest voice at first",
+      "From falsetto only, avoiding head voice until the child reaches puberty"
+    ],
+    "explain": "Phillips advises that blending registers is best learned top down: begin from the upper register and move down, then later work bottom up to teach the shift to the upper register.",
+    "source": "book"
+  },
+  {
+    "q": "Up to roughly which pitches can females use a heavy/chest belt that uses only chest register?",
+    "correct": "C5 to D5",
+    "distractors": [
+      "G4 to A4",
+      "F5 to G5",
+      "A5 to C6"
+    ],
+    "explain": "Heavy/chest belt is generally limited to pitches no higher than C5–D5; mix belting, which adds chestmix and perhaps headmix, raises the limit to roughly G5.",
+    "source": "book"
+  },
+  {
+    "q": "Why is there an upper limit to how high women can belt, even in mixed voice?",
+    "correct": "Beyond about G5, the TA muscle is fully stretched and cannot keep control",
+    "distractors": [
+      "Beyond about G5, subglottal resonance blocks the vocal folds from vibrating",
+      "Beyond about G5, the cricothyroid muscles can no longer tilt the thyroid cartilage",
+      "Beyond about G5, the larynx must drop to its lowest position and TA fibers relax"
+    ],
+    "explain": "At a certain point TA control is no longer possible for women because the TA muscle is fully stretched; above G5 dominant CT control is needed for the folds to vibrate at such high frequencies.",
+    "source": "book"
+  },
+  {
+    "q": "What problem occurs for males who have not learned to sing in head voice as they approach the second transition?",
+    "correct": "A dramatic tonal change, forcing them to switch to falsetto for notes around and above it",
+    "distractors": [
+      "A loss of resonance in chest voice, forcing them to lower the larynx for notes around and above it",
+      "A sudden drop in pitch, forcing them to sing the notes an octave lower around and above it",
+      "An inability to phonate at all, forcing them to whisper for notes around and above it"
+    ],
+    "explain": "Males who lack head voice experience a dramatic change in tonal quality near the second transition and must resort to falsetto around and above the upper transition.",
+    "source": "book"
+  },
+  {
+    "q": "What acoustic event near E4-flat is linked to register transition problems?",
+    "correct": "The second harmonic crosses over the first formant, destabilizing vocal fold vibration",
+    "distractors": [
+      "The fundamental frequency coincides with subglottal resonance and stops vocal fold vibration",
+      "The third formant drops below the second harmonic and thickens the vocal folds",
+      "The first harmonic crosses over the singer's formant and raises the larynx"
+    ],
+    "explain": "As pitch ascends through this area, the second harmonic can cross the first formant, destabilizing fold vibration; the chapter notes subglottal resonance does not significantly affect transitions.",
+    "source": "book"
+  },
+  {
+    "q": "According to the chapter, why is the pitch location of a singer's register transitions a useful clue for voice classification?",
+    "correct": "It is more informative than range, since developing singers have not yet developed their full range",
+    "distractors": [
+      "It is more informative than timbre, since transition pitches are identical within each gender",
+      "It is more informative than range, since transitions are the same for all voice types in each gender",
+      "It is more informative than speaking pitch, since transitions never vary between singers"
+    ],
+    "explain": "Transition pitches can guide voice classification more than range does, because developing singers typically have not developed their full range.",
+    "source": "book"
+  },
+  {
+    "q": "What should a singer do with breath pressure when ascending into a passaggio, and why?",
+    "correct": "Reduce it, so the thinner folds are not blown apart and the voice does not break",
+    "distractors": [
+      "Increase it, so the thicker folds are held together and the voice does not break",
+      "Hold it steady, so the harmonics do not cross the formants and the voice does not break",
+      "Reduce it only at the top of the range, since the folds are thickest in mixed voice and stay closed"
+    ],
+    "explain": "Continued or increased breath pressure at a passaggio can blow apart the thinner folds, ceasing phonation and creating noise; reducing pressure (or reducing closure firmness) eases the transition.",
+    "source": "book"
+  },
+  {
+    "q": "How should laryngeal height be handled for headmix and head voice as pitch ascends?",
+    "correct": "The larynx should rise minimally, letting the cricothyroids take over as pitch ascends",
+    "distractors": [
+      "The larynx should rise freely, letting the thyroarytenoids keep control as pitch ascends",
+      "The larynx should drop sharply, letting the thyroarytenoids relax fully as pitch ascends",
+      "The larynx should stay fixed at its highest position, keeping the cricothyroids from tilting the cartilage"
+    ],
+    "explain": "Keeping the larynx from rising excessively is an indirect way to let the CT muscles take over; for chestmix the larynx is allowed to rise higher to delay CT participation.",
+    "source": "book"
+  },
+  {
+    "q": "According to the chapter, how can a small increase in nasality help singers in register transitions?",
+    "correct": "It adds back pressure that stabilizes vocal fold oscillation, and it mainly helps male singers",
+    "distractors": [
+      "It adds back pressure that stabilizes vocal fold oscillation, and it mainly helps female singers",
+      "It widens the pharynx and lowers the larynx, and it helps male and female singers equally",
+      "It thickens the vocal folds and increases closure firmness, and it mainly helps male singers"
+    ],
+    "explain": "Nasality introduces back pressure in the vocal tract, like nasal consonants in SOVT exercises, stabilizing fold oscillation; most studies suggest it is helpful only for males.",
+    "source": "book"
+  },
+  {
+    "q": "What does the register name Strohbass mean, and what is it also called?",
+    "correct": "\"Straw bass\"; it is also called vocal fry or the pulse register",
+    "distractors": [
+      "\"Straw bass\"; it is also called falsetto or the flute register",
+      "\"Hollow bass\"; it is also called vocal fry or the pulse register",
+      "\"Deep bass\"; it is also called the whistle register or voce faringea"
+    ],
+    "explain": "Strohbass is German for straw bass, referring to the crackle of dry straw underfoot; it is also called vocal fry or, more technically, the pulse register.",
+    "source": "book"
+  },
+  {
+    "q": "What did Herbst, Ternström, and Svec find distinguishes professional countertenor falsetto from \"naive\" falsetto?",
+    "correct": "Firmer glottal closure, which generates more harmonics and a more resonant sound",
+    "distractors": [
+      "Less glottal closure, which generates fewer harmonics and a lighter, breathier sound",
+      "A lower larynx position, which lengthens the vocal tract and darkens the sound",
+      "Greater breath pressure, which thickens the folds and adds chest voice resonance"
+    ],
+    "explain": "Countertenors use a reinforced falsetto with firmer glottal closure than naive falsetto, producing more harmonics and a more fully resonant sound.",
+    "source": "book"
+  },
+  {
+    "q": "How does the chapter advise a singer to access the whistle register?",
+    "correct": "Reduce breath pressure and relax vocal fold closure",
+    "distractors": [
+      "Increase breath pressure and firm up vocal fold closure",
+      "Raise the larynx and widen the mouth into a trumpet shape",
+      "Add nasality and protrude the jaw to narrow the pharynx"
+    ],
+    "explain": "Accessing the whistle register involves reduced breath pressure and relaxed closure, and singers often feel a relaxation of the laryngeal muscles as they make the transition.",
+    "source": "book"
+  },
+  {
+    "q": "Why does the chapter recommend octave slides that descend from high to low pitches when learning to access head voice?",
+    "correct": "Transitions may be smoother going from high to low than from low to high",
+    "distractors": [
+      "The larynx never needs to be monitored when sliding downward through the registers",
+      "Descending slides are sung entirely in chest voice, which strengthens the TA muscles",
+      "Breath pressure is naturally higher on descending slides, which helps the folds stay together"
+    ],
+    "explain": "The chapter notes that sliding from high to low may involve smoother transitions than low to high, which is especially helpful for learning to access head voice.",
+    "source": "book"
+  }
+]
