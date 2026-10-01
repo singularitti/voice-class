@@ -151,23 +151,23 @@ h3 { font-size: 1.05rem; margin: 28px 0 10px; }
   margin-bottom: 8px;
 }
 
-.quiz-head { align-items: center; }
-.qnav { display: flex; gap: 6px; align-items: center; }
+.qnav { display: flex; gap: 8px; margin-top: 14px; }
 .navbtn, #q-select {
+  box-sizing: border-box;
+  height: 40px;
   font: inherit;
-  font-size: .85rem;
+  font-size: .9rem;
   color: var(--ink);
-  background: transparent;
+  background: var(--card);
   border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 4px 10px;
+  border-radius: 12px;
   cursor: pointer;
 }
-.navbtn { font-weight: 600; min-width: 34px; }
+.navbtn { flex: none; width: 44px; font-weight: 600; }
+#q-select { flex: 1; min-width: 0; padding: 0 12px; text-overflow: ellipsis; }
 .navbtn:hover:not(:disabled), #q-select:hover { border-color: var(--accent); }
 .navbtn:disabled { opacity: .4; cursor: default; }
 .navbtn:focus-visible, #q-select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-#q-select { background: var(--card); }
 
 .bar { height: 6px; border-radius: 6px; background: var(--line); overflow: hidden; }
 .bar i { display: block; height: 100%; width: 0; background: var(--accent); border-radius: 6px; transition: width .35s ease; }

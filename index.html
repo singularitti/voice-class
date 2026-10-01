@@ -42,15 +42,16 @@
 
     <section id="screen-quiz" class="screen" hidden>
       <header class="quiz-head">
-        <nav class="qnav" aria-label="Question navigation">
-          <button class="navbtn" id="btn-prev" aria-label="Previous question">&lt;</button>
-          <select id="q-select" aria-label="Jump to question"></select>
-          <button class="navbtn" id="btn-fwd" aria-label="Next question">&gt;</button>
-        </nav>
+        <span id="progress-text">Question 1 of 50</span>
         <span id="score-text">0 correct</span>
       </header>
       <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="50" aria-valuenow="0" id="bar"><i
           id="bar-fill"></i></div>
+      <nav class="qnav" aria-label="Question navigation">
+        <button class="navbtn" id="btn-prev" aria-label="Previous question">&lt;</button>
+        <select id="q-select" aria-label="Jump to question"></select>
+        <button class="navbtn" id="btn-fwd" aria-label="Next question">&gt;</button>
+      </nav>
       <p class="unit-tag" id="unit-tag"></p>
       <h2 id="question"></h2>
       <div class="options" id="options" role="group" aria-labelledby="question"></div>

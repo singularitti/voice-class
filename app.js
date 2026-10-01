@@ -2,6 +2,7 @@
   const SIZE_CHOICES = [25, 50, 100];
   const BEST_KEY = "voice-quiz-best";
   const LETTERS = ["A", "B", "C", "D"];
+  const TITLE_MAX = 60;
 
   const UNITS = [
     "Unit 1 · Alignment",
@@ -131,6 +132,10 @@
     renderQuestion();
   }
 
+  function truncate(s, n) {
+    return s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s;
+  }
+
   function maxView() {
     return Math.min(answers.length, quiz.length - 1);
   }
@@ -139,7 +144,7 @@
     const max = maxView();
     $("q-select").innerHTML = Array.from({ length: max + 1 }, (_, i) => {
       const mark = answers[i] === undefined ? "" : answers[i] === quiz[i].answerIndex ? " ✓" : " ✗";
-      return `<option value="${i}"${i === view ? " selected" : ""}>Question ${i + 1} of ${quiz.length}${mark}</option>`;
+      return `<option value="${i}"${i === view ? " selected" : ""}>${i + 1}. ${esc(truncate(quiz[i].q, TITLE_MAX))}${mark}</option>`;
     }).join("");
     $("btn-prev").disabled = view <= 0;
     $("btn-fwd").disabled = view >= max;
@@ -164,6 +169,7 @@
 
   function renderQuestion() {
     const item = quiz[view];
+    $("progress-text").textContent = `Question ${view + 1} of ${quiz.length}`;
     $("score-text").textContent = `${correctCount} correct`;
     const bar = $("bar");
     bar.setAttribute("aria-valuenow", answers.length);
