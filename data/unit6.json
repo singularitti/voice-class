@@ -1,0 +1,494 @@
+[
+ {
+  "q": "Where should the tip of the tongue rest when forming vowels in classical singing?",
+  "correct": "Against the base of the lower front teeth",
+  "distractors": [
+   "Pressed firmly against the lower gum",
+   "Behind the upper front teeth",
+   "Curled back toward the soft palate"
+  ],
+  "explain": "Regardless of the vowel, the tongue tip rests lightly against the lower incisors just above the gum line, which gives all singers a common reference for uniform vowels.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which set of factors determines how a vowel is formed?",
+  "correct": "Degree and point of tongue elevation, jaw opening, and lip shape",
+  "distractors": [
+   "Larynx height, soft palate position, breath pressure, and pitch",
+   "Vocal fold closure, jaw opening, vibrato rate, and lip shape",
+   "Tongue tip position, nasal resonance, breath support, and dynamics"
+  ],
+  "explain": "Accurate vowel production depends on degree of tongue elevation, point of tongue elevation, amount of jaw opening, and lip shape.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the Vowel Spectrum?",
+  "correct": "A continuum of vowels from [i] to [u] in which neighboring vowels are formed similarly",
+  "distractors": [
+   "A list of the first four formant frequencies measured for a single vowel spoken by one singer",
+   "The range of pitches over which one vowel stays stable and does not need any modification",
+   "A chart grouping the vowels only by how wide the lips are spread and how far the jaw drops"
+  ],
+  "explain": "The progression along the U-shaped curve from [i] to [u] is the Vowel Spectrum, and vowels next to each other on it are produced similarly.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which vowel is generally the darkest?",
+  "correct": "[u]",
+  "distractors": [
+   "[ɔ]",
+   "[ɑ]",
+   "[i]"
+  ],
+  "explain": "[u] is the darkest vowel, followed by [U], [o], and [ɔ]; [i] is the brightest.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why should excessive jaw movement between vowels be avoided?",
+  "correct": "It wastes energy, creates tension, and changes the vowel as it is sung",
+  "distractors": [
+   "It raises the larynx and makes the tone too bright and thin, especially on high notes",
+   "It pulls the tongue tip away from the lower teeth for good and lowers the soft palate",
+   "It lowers the second formant and darkens every vowel until the words are hard to hear"
+  ],
+  "explain": "Excessive jaw movement wastes energy and creates tension, and it alters the sound of the vowel through changes in the first formant.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "In classical singing, which part of a diphthong such as the one in \"night\" receives most of the duration?",
+  "correct": "The first vowel, with the shift to the second at the last moment",
+  "distractors": [
+   "The second vowel, with a quick touch of the first",
+   "Both vowels, split equally in time",
+   "Neither; the diphthong is sung as one pure vowel"
+  ],
+  "explain": "For classical/legit singing the first vowel of a diphthong is sustained, moving to the second vowel at the last moment.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is a triphthong?",
+  "correct": "Three vowels combined in succession within one syllable, as in \"tire\"",
+  "distractors": [
+   "Three different vowels sung on three separate syllables, with a breath between each",
+   "A vowel followed by two consonants, as in \"land\", that must be released quickly",
+   "A glide that lands on a third, higher pitch, as in a written ornament such as a turn"
+  ],
+  "explain": "Combinations of three vowels are triphthongs, and in classical styles the word is sung on the first vowel, shifting to the last two just as the word ends.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "How does a glide differ from a diphthong?",
+  "correct": "A glide sustains the second vowel, while a diphthong sustains the first",
+  "distractors": [
+   "A glide sustains the first vowel, while a diphthong sustains the second",
+   "A glide gives both vowels equal time, while a diphthong uses only one",
+   "A glide has three vowels, while a diphthong has only two"
+  ],
+  "explain": "A glide moves swiftly through the first vowel and sings the second with greater duration, the reverse of a classical diphthong.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is vowel modification?",
+  "correct": "Slightly adjusting a vowel, especially at high pitches, to keep resonance and ease",
+  "distractors": [
+   "Making every vowel sound exactly the same in order to improve choral blend and diction",
+   "Darkening all of the vowels throughout the whole range in order to hide any brightness",
+   "Replacing vowels with semi-vowel consonants at high pitches so the words stay clear"
+  ],
+  "explain": "Vowels are modified, mostly at higher pitches, so that singing stays stable, resonant, and free of strain while remaining understandable.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why is consistent vowel production so important in a choir?",
+  "correct": "Matching formant frequencies among singers improves blend and intonation",
+  "distractors": [
+   "It lets each singer use a different jaw opening for variety in the choral sound",
+   "It makes clear consonants unnecessary for the audience in a large performance hall",
+   "It allows the whole choir to sing without vibrato and with perfectly straight tone"
+  ],
+  "explain": "The first and second formants distinguish vowels, so singers producing a vowel differently create dissonant formants that hurt blend and intonation.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why should the tongue tip not rest on the gum?",
+  "correct": "The tongue sits too far back and becomes tense, which can affect the larynx",
+  "distractors": [
+   "It pushes the tongue tip through the teeth and distorts consonants such as [t] and [d]",
+   "It raises the soft palate too far and makes the pitch sharp on the high notes",
+   "It brings the hump of the tongue too far forward for the back vowels [u] and [o]"
+  ],
+  "explain": "Resting on the gum puts the tongue too far back and causes tension, and because the tongue and larynx share a connection with the hyoid bone, the larynx can be affected.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "In classical singing, what happens if the tongue tip drifts to a consonant-related position and stays there when the vowel begins?",
+  "correct": "Intermediate vowel sounds arise that hurt differentiation, tuning, and blend",
+  "distractors": [
+   "The larynx lowers and darkens every vowel that follows, which makes the words unclear",
+   "The soft palate drops and the pitch goes flat because the nasal port has opened",
+   "The second formant strengthens and the vowel brightens until it sounds like [i]"
+  ],
+  "explain": "Until returning to the lower-teeth resting place becomes automatic, the tongue may stay near the consonant position, producing intermediate vowels.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which acoustic feature largely determines whether a vowel is perceived as bright or dark?",
+  "correct": "The second formant frequency",
+  "distractors": [
+   "The fundamental frequency of the sung note",
+   "The first formant frequency alone",
+   "The rate of the vibrato"
+  ],
+  "explain": "Perceived brightness is largely a function of the second formant, with higher F2 vowels such as [i] sounding brighter than low-F2 vowels such as [u].",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the tonal result of asking for excessive, forward lip-puckering on [u]?",
+  "correct": "A hooty sound that lacks resonance",
+  "distractors": [
+   "A brassy sound with too much ring",
+   "A nasal sound with a raised first formant",
+   "A bright, forward sound that is easy to understand"
+  ],
+  "explain": "Puckering narrows the opening and tenses the lips, pulling in the cheeks and reducing interior mouth space, which produces a hooty, non-resonant tone.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which of the following contributes to an excessively bright [i] in classical singing?",
+  "correct": "Insufficient rear jaw lowering, leaving too little pharyngeal resonance",
+  "distractors": [
+   "Rounding the lips too much and pulling the tongue back away from the front teeth",
+   "Modifying [i] toward the space of [ɑ] in the middle range of the voice, with the jaw dropped",
+   "Lowering the larynx and keeping the smile narrow while the jaw drops in back"
+  ],
+  "explain": "Pharyngeal resonance is needed to balance the mouth resonance inherent in [i]; other contributors are a wide outer smile and nasality.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "How should classical singers keep [ɑ] resonant without opening the mouth excessively?",
+  "correct": "Lower the jaw in the back rather than opening wide in the front",
+  "distractors": [
+   "Raise the hump of the tongue toward the front of the mouth",
+   "Spread the lips into a broad smile",
+   "Round the lips and close the jaw slightly"
+  ],
+  "explain": "Classical [ɑ] does not need a wide-open mouth; the key is back jaw lowering, and excessive front opening tends to appear with high, loud singing and brings tension.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the schwa [ə]?",
+  "correct": "The unaccented form of the neutral vowel, as in the last syllable of \"pencil\"",
+  "distractors": [
+   "The accented form of the neutral vowel, as in the word \"love\" or the word \"cup\"",
+   "A bright front vowel used to add emphasis to final syllables and to sustained notes",
+   "The Italian \"ah,\" brighter and more forward than the American vowel [ɑ] used in \"father\""
+  ],
+  "explain": "The neutral vowel has an accented form [ʌ] and an unaccented form [ə], the schwa, which helps de-emphasize final syllables.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What does the vocal strategy called \"covering\" involve?",
+  "correct": "Modifying vowels so they become darker, as if putting a lid on the sound",
+  "distractors": [
+   "Closing the mouth completely between phrases in order to save breath and rest the jaw",
+   "Fronting the tongue arch to brighten the vowels at high pitches and in loud passages",
+   "Leaving the tongue tip on the gum after each consonant so that the vowel is delayed"
+  ],
+  "explain": "Covering is a strategy in which vowel modifications darken vowel color; used excessively or in the middle range it sounds overly dark and hurts intelligibility.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why must most singers modify vowels as they ascend to higher pitches?",
+  "correct": "To prevent a harmonic from crossing the first formant and destabilizing vocal fold vibration",
+  "distractors": [
+   "To make the vowels more distinct so that the text is easier to hear over the orchestra or the piano",
+   "To raise the larynx and shorten the vocal tract so that the tone is brighter and more forward",
+   "To lower the first formant so the tone is darker at the top of the range and the larynx can stay low"
+  ],
+  "explain": "A crossover of the fundamental or a higher harmonic with F1 can cause a break, a sudden tonal change, or a pitch alteration; modification avoids it and lowers vocal effort.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "At roughly A5 and above, classical sopranos must modify all vowels toward which vowels?",
+  "correct": "[ae], [a], or [ɑ]",
+  "distractors": [
+   "[i], [I], or [e]",
+   "[u], [U], or [o]",
+   "[ʌ], [ə], or [ɛ]"
+  ],
+  "explain": "Above about A5 the fundamental is above the first formant of every vowel, so vowels must move toward [ae], [a], or [ɑ], and [i] and [u] especially should be avoided.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "To avoid the fundamental crossing F1 at high pitches, what should male classical singers do with [i] and [u]?",
+  "correct": "Modify them to [I] and [U], respectively",
+  "distractors": [
+   "Modify them to [ae] and [ɑ] with more jaw lowering",
+   "Modify them to the neutral vowels [ʌ] and [ə]",
+   "Keep them unmodified and lower the larynx"
+  ],
+  "explain": "Vowels with low first formants, particularly [i] and [u], risk fundamental crossover, so they are modified to [I] and [U], sometimes even just below the first passaggio.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "As pitch rises above roughly C4, what mouth shape should contemporary male singers increasingly adopt?",
+  "correct": "An opening shaped like the bell of a trumpet",
+  "distractors": [
+   "A narrow, puckered opening with rounded lips",
+   "A closed jaw with the lips spread in a smile",
+   "A rounded [u]-like opening with the tongue low"
+  ],
+  "explain": "The trumpet mouth shape lets F1 rise along with the second harmonic, preventing a destabilizing crossover and letting F1 amplify that harmonic.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why might English singers inadvertently add [i] to the end of the Italian word \"vivace\"?",
+  "correct": "Closing the jaw while still singing [ɛ] creates an unwanted diphthong",
+  "distractors": [
+   "Raising the soft palate turns the final vowel into a schwa",
+   "Anticipating the next consonant with the tongue tip",
+   "Rounding the lips too much while the tongue stays low"
+  ],
+  "explain": "The final vowel of vivace is the pure vowel [ɛ]; keeping the jaw lowered preserves the vowel's integrity and avoids the added [i].",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "For Italianized (Church) Latin, which vowel should replace the [o] English singers often sing in \"Gloria\"?",
+  "correct": "[ɔ]",
+  "distractors": [
+   "[u]",
+   "[ʊ]",
+   "[ə]"
+  ],
+  "explain": "In Church Latin the vowel is [ɔ], which enlivens the sound; the [o] form is correct only in Germanic Latin.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "How does vowel formation in pop, country, and musical theatre typically differ from classical formation?",
+  "correct": "More mouth than pharyngeal resonance, with wider lips and a more forward tongue arch",
+  "distractors": [
+   "More pharyngeal than mouth resonance, with rounder lips and a lower tongue arch",
+   "A lower larynx, expanded pharynx, and rounded lips for a darker tone",
+   "Identical formation, but with a faster tongue return and no vibrato"
+  ],
+  "explain": "These styles pronounce vowels more like speech, giving a brighter, less operatic sound with a more closed back jaw, a wider lip opening, and a forward tongue arch.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why are vowels the foundation of vocal tone?",
+  "correct": "They determine resonance, timbre, and intelligibility",
+  "distractors": [
+   "They begin every phrase",
+   "They control the breath cycle",
+   "They keep the larynx high"
+  ],
+  "explain": "Vowels shape resonance, color, and clarity.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Where should the tongue tip rest for vowels?",
+  "correct": "Against the lower front teeth",
+  "distractors": [
+   "Against the soft palate",
+   "Curled back toward the throat",
+   "Between the teeth"
+  ],
+  "explain": "The tongue tip rests behind the lower front teeth.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What four factors create vowels?",
+  "correct": "Tongue height, tongue location, jaw opening, and lip shape",
+  "distractors": [
+   "Breath pressure, larynx height, vibrato rate, and register",
+   "Pitch, volume, duration, and timbre",
+   "Jaw opening, nose shape, breath, and posture"
+  ],
+  "explain": "Vowels are made by the tongue, jaw, and lips.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is the vowel spectrum?",
+  "correct": "A continuum from [i] to [u]",
+  "distractors": [
+   "A list of consonants sorted by voicing",
+   "The range of pitches a singer can sing",
+   "The list of formants from F1 to F3"
+  ],
+  "explain": "Vowels form a continuum from [i] to [u].",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which set lists the primary vowels?",
+  "correct": "[i], [e], [a], [o], [u]",
+  "distractors": [
+   "[i], [ɪ], [ɛ], [æ], [ʊ]",
+   "[p], [t], [k], [f], [s]",
+   "[ai], [au], [oi], [ei], [ou]"
+  ],
+  "explain": "The primary vowels are [i], [e], [a], [o], [u].",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which vowels are generally the brightest?",
+  "correct": "[i], [ɪ], [e], [ɛ], [æ]",
+  "distractors": [
+   "[u], [ʊ], [o]",
+   "[p], [t], [k]",
+   "[m], [n], [ŋ]"
+  ],
+  "explain": "Front vowels are the brightest.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which vowels are generally the darkest?",
+  "correct": "[u], [ʊ], [o]",
+  "distractors": [
+   "[i], [ɪ], [e], [ɛ], [æ]",
+   "[p], [t], [k]",
+   "[s], [z], [f]"
+  ],
+  "explain": "Back, rounded vowels sound darkest.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why should excessive jaw movement be avoided?",
+  "correct": "It wastes energy and creates tension",
+  "distractors": [
+   "It raises the pitch",
+   "It makes vowels too bright",
+   "It shortens the breath"
+  ],
+  "explain": "Extra jaw motion adds tension.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a diphthong?",
+  "correct": "Two vowel sounds within one syllable",
+  "distractors": [
+   "Three vowel sounds within one syllable",
+   "Two consonants in a row",
+   "Two separate syllables"
+  ],
+  "explain": "A diphthong glides between two vowels in one syllable.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which set gives three examples of diphthongs?",
+  "correct": "ai, au, oi",
+  "distractors": [
+   "p, t, k",
+   "i, e, a",
+   "m, n, ng"
+  ],
+  "explain": "Examples include ai, au, and oi.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which vowel receives most of the duration in a diphthong?",
+  "correct": "The first vowel",
+  "distractors": [
+   "The second vowel",
+   "Both vowels equally",
+   "Neither; the consonant gets it"
+  ],
+  "explain": "Sing the first vowel and move to the second at the last moment.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a triphthong?",
+  "correct": "Three vowel sounds within one syllable",
+  "distractors": [
+   "Two vowel sounds within one syllable",
+   "Three consonants in a row",
+   "Three separate syllables"
+  ],
+  "explain": "A triphthong has three vowel sounds in one syllable.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a glide (in vowels)?",
+  "correct": "A rapid movement through one vowel to another",
+  "distractors": [
+   "A sustained double vowel",
+   "A break between two registers",
+   "A consonant at the end of a word"
+  ],
+  "explain": "The glide is passed through quickly.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "How do glides differ from diphthongs?",
+  "correct": "In a glide, the second vowel receives the sustained tone",
+  "distractors": [
+   "In a glide, the first vowel receives the sustained tone",
+   "Glides contain no vowel sounds",
+   "Glides are always unvoiced"
+  ],
+  "explain": "In a glide the tone lands on the second vowel.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is vowel modification?",
+  "correct": "Adjusting vowels to improve resonance and ease of singing",
+  "distractors": [
+   "Changing the words of the text",
+   "Singing every vowel as [a]",
+   "Leaving vowels out"
+  ],
+  "explain": "Singers adjust vowels slightly for better resonance and ease.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why is vowel consistency important in choral singing?",
+  "correct": "It improves blend and intonation",
+  "distractors": [
+   "It makes the choir louder",
+   "It removes the need to breathe",
+   "It raises the range"
+  ],
+  "explain": "Matching vowels helps voices blend and stay in tune.",
+  "source": "guide",
+  "difficulty": "easy"
+ }
+]

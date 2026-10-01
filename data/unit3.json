@@ -1,0 +1,458 @@
+[
+ {
+  "q": "Which three elements are needed to produce sound with the voice?",
+  "correct": "Air pressure, vibrating vocal folds, and a resonator",
+  "distractors": [
+   "Air pressure, a vibrating hyoid bone, and a resonator",
+   "Air pressure, tense false folds, and a wind chest",
+   "Lung volume, a vibrating tongue, and a soundboard"
+  ],
+  "explain": "The voice is a wind instrument: pressurized air sets a vibrator (the vocal folds) in motion, and the vocal tract acoustically enhances the result as the resonator.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "A singer inhales and then closes the glottis at the same moment that exhalation begins. Which onset is this?",
+  "correct": "Coordinated onset",
+  "distractors": [
+   "Glottal onset",
+   "Breathy onset",
+   "Vocal fry onset"
+  ],
+  "explain": "A coordinated onset times exhalation and glottal closure to occur simultaneously.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which onset should be used for most singing, whether the singer wants firm mix-belt closure or a light, airy sound?",
+  "correct": "Coordinated onset",
+  "distractors": [
+   "Soft glottal onset",
+   "Breathy onset",
+   "Vocal fry onset"
+  ],
+  "explain": "The book says a coordinated onset is appropriate for most singing, including firmer closure for mix belt and lighter closure for an airy sound.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "A singer inhales, closes the glottis, and then releases just enough tension for the folds to vibrate. Which onset is this?",
+  "correct": "Glottal onset",
+  "distractors": [
+   "Coordinated onset",
+   "Breathy onset",
+   "Vocal fry onset"
+  ],
+  "explain": "In a glottal onset the folds close before airflow begins, and tension is then eased just enough to produce sound.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which risk is associated with excessive use of hard-glottal onsets over time?",
+  "correct": "Nodes or polyps from high collision forces between the folds",
+  "distractors": [
+   "Singing sharp because too much air is emitted and the pitch drifts upward",
+   "A weaker ability to hold long phrases because the breath is used up too fast",
+   "Loss of the singer's formant through dehydration of the surrounding tissue"
+  ],
+  "explain": "Hard attacks create high collision forces and friction, similar to coughing, and can lead to nodes or polyps; they also tend to produce harsh tone.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which describes a breathy onset?",
+  "correct": "Exhaling while the glottis is left open or partly open",
+  "distractors": [
+   "Closing the glottis fully before any air flows",
+   "Closing the glottis exactly as exhalation begins",
+   "Starting with very relaxed closure and a growl-like sound"
+  ],
+  "explain": "A breathy onset occurs when the singer starts to exhale before the vocal folds have closed.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why is a breathy onset generally inefficient?",
+  "correct": "Excess air escapes, which wastes breath and makes long phrases harder",
+  "distractors": [
+   "Too little air reaches the folds, so they cannot vibrate",
+   "The folds slam together, wasting energy as collision force",
+   "It lowers the pitch and shortens the vocal folds"
+  ],
+  "explain": "Breathy onset emits too much air, which impedes long phrases; it also causes noise and often sharp intonation.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which onset typically combines very relaxed vocal fold closure with high airflow and is used for growls in rock, gospel, and jazz?",
+  "correct": "Vocal fry onset",
+  "distractors": [
+   "Coordinated onset",
+   "Glottal onset",
+   "Breathy onset"
+  ],
+  "explain": "The vocal fry (growl) onset uses very relaxed closure and may resolve into a clearer tone as closure firms up.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the easiest way to stop the breath at the end of a phrase without closing the glottis?",
+  "correct": "Inhale at the end of the phrase",
+  "distractors": [
+   "Close the mouth on the final vowel",
+   "Open the glottis while continuing to exhale",
+   "Snap the folds shut with a soft glottal"
+  ],
+  "explain": "Inhaling at the phrase end is a coordinated release, and the breath is usually needed for the next phrase anyway.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why should singers be conscious of their release technique?",
+  "correct": "It determines whether a phrase ends cleanly and precisely, without distortion",
+  "distractors": [
+   "It sets the vocal fold length for the next pitch and the required breath pressure",
+   "It determines the hydration level of the folds during long phrases and rehearsals",
+   "It changes the fundamental frequency of the following note and the vowel formants"
+  ],
+  "explain": "Release affects musical precision and sound quality: poor releases add noise or pitch and vowel changes, and ensembles must release together.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which of the following is NOT a semi-occluded vocal tract (SOVT) exercise?",
+  "correct": "Repeated hard glottal onsets on \"Uh\"",
+  "distractors": [
+   "Singing through a straw",
+   "Lip trills",
+   "Singing the voiced consonant [v]"
+  ],
+  "explain": "Straw phonation, lip and tongue trills, and [v] or [z] all restrict airflow; the \"Uh\" exercise is an onset exercise for feeling a glottal onset.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What closes the vocal folds again after air pressure has opened them?",
+  "correct": "A zone of low pressure from air rushing through, plus elastic reversion of the tissue",
+  "distractors": [
+   "Contraction of the posterior cricoarytenoid muscle, which pulls the arytenoids together",
+   "Backpressure from the lips and tongue, which pushes the air back down onto the folds and closes them",
+   "Tilting of the thyroid cartilage by the cricothyroids, which lengthens and thins the folds"
+  ],
+  "explain": "Air passing through the narrowed glottis creates low pressure (the Bernoulli effect) that draws the folds shut, aided by elastic reversion.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What happens to vocal fold vibration when a singer is dehydrated?",
+  "correct": "The mucus coating becomes more viscous, so more breath pressure and effort are needed",
+  "distractors": [
+   "The folds thicken permanently and vibrate more slowly at all pitches, whatever the effort used",
+   "The mucus coating thins out, so the folds close too tightly and the tone becomes pressed and bright",
+   "The glottis stays open, so every onset becomes glottal and the vibrato speeds up"
+  ],
+  "explain": "Dehydration makes the mucus coating more viscous, which makes vibration harder, especially for higher pitches.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What effect does contracting the cricothyroid muscles have on the vocal folds?",
+  "correct": "They tilt the thyroid cartilage, stretching and thinning the folds and raising pitch",
+  "distractors": [
+   "They thicken and slacken the folds, lowering pitch and increasing the closed quotient sharply",
+   "They open the glottis for inhalation by rotating the arytenoid cartilages outward",
+   "They press the folds tightly together for a belt sound and shorten the vocal tract"
+  ],
+  "explain": "Cricothyroid contraction tilts the thyroid cartilage forward, stretching and thinning the folds so they vibrate faster, like thinner violin strings.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "How do singers control pitch, given that they lack direct conscious control over the muscles that tense and thin the folds?",
+  "correct": "By forming a clear mental image of the desired sound and then producing it",
+  "distractors": [
+   "By consciously contracting the thyroarytenoid muscles until the desired pitch is reached",
+   "By lowering the larynx with the hyoid bone and stretching the vocal tract",
+   "By raising breath pressure until the pitch is reached, then easing off the support"
+  ],
+  "explain": "The book says pitch and tone are controlled through a mental representation of the sound, pre-tuning the system just before singing.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "On a scale of firmness of glottal closure from 1 to 7, which level is generally associated with classical/legit singing?",
+  "correct": "Level 4, moderate closure (flow phonation)",
+  "distractors": [
+   "Level 1, very relaxed closure",
+   "Level 3, airy closure",
+   "Level 7, very firm closure"
+  ],
+  "explain": "Classical/legit production generally uses moderate glottal closure, while breathy sounds are at the relaxed end and heavy belt is at the firm end.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What does the \"closed quotient\" measure?",
+  "correct": "The percentage of each vibratory cycle during which the vocal folds are closed",
+  "distractors": [
+   "The number of times per second that the folds open and close during one held note",
+   "The difference between the first formant and the sung pitch, measured in decibels",
+   "The percentage of breath pressure lost through the nose during a sustained vowel"
+  ],
+  "explain": "A higher closed quotient generally correlates with firmer closure, more overtones, and a higher dynamic level, though too high a value sounds pressed.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why is auditory feedback limited as a guide for singers judging their own sound?",
+  "correct": "Bone conduction emphasizes low frequencies, so singers do not hear their own spectral qualities accurately",
+  "distractors": [
+   "Singers hear only the reflected sound and none of the direct sound",
+   "Auditory feedback affects only rhythm, not pitch",
+   "Hearing one's own voice always causes glottal onsets"
+  ],
+  "explain": "Bone conductance emphasizes lower frequencies and some sound heard is reflected, so singers also need teacher feedback and kinesthetic sensation.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "When is a soft glottal onset deliberately useful?",
+  "correct": "To make words distinct, as in \"her eyes,\" and to help choral rhythmic precision",
+  "distractors": [
+   "To begin every phrase that starts on a consonant so that the words sound smoother",
+   "To create a rough, gritty sound in rock singing and to protect the vocal folds",
+   "To raise breath pressure for high pitches and reduce the closed quotient of the folds"
+  ],
+  "explain": "A soft glottal improves diction and helps a choir be rhythmically precise; it differs from the harmful hard-glottal onset.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why might an adolescent singer have a breathy onset?",
+  "correct": "Inability to close the posterior one-third of the vocal folds",
+  "distractors": [
+   "Overuse of the thyroarytenoid muscles, which thickens and shortens the folds",
+   "Unconscious head movement during inhalation, which pulls the larynx upward",
+   "Using a mouth position that is too narrow, so the tongue blocks the airflow"
+  ],
+  "explain": "Adolescents may be unable to close the back third of the folds; onset exercises and SOVT exercises help, but some breathiness remains until maturity.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which straw is generally more effective for SOVT exercises?",
+  "correct": "A smaller-diameter straw, such as a 2.5 mm coffee stirrer",
+  "distractors": [
+   "A wide-diameter straw, such as one more than 10 mm across at the opening",
+   "A very long straw, regardless of its diameter or the singer's lung capacity",
+   "A short straw, since length matters more than diameter for the back pressure"
+  ],
+  "explain": "Smaller diameters tend to be more effective, and for straws of 2.5 mm or larger, diameter matters more than length.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the \"massage\" effect of SOVT exercises, and which kind of exercise produces it more?",
+  "correct": "Greater variability in closed quotient, produced more by pulsating exercises such as trills",
+  "distractors": [
+   "A reduction in closed quotient, produced more by humming than by any pulsating exercise or trill",
+   "A steady closed quotient, produced more by straw phonation than by lip trills or tongue trills",
+   "A narrower epilarynx tube, produced more by fingers over the mouth and by constant pressure"
+  ],
+  "explain": "Pulsating pressure varies the closed quotient, and pulsating or combination exercises showed double the massage effect of continuous exercises.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why is closing the mouth on a vowel a poor way to release a phrase?",
+  "correct": "It changes the vowel and may create a perceived pitch change",
+  "distractors": [
+   "It forces the glottis to open and exhale breathily",
+   "It raises subglottal pressure sharply",
+   "It prevents the singer from inhaling for the next phrase"
+  ],
+  "explain": "Closing the mouth alters the vowel (like an unintended diphthong) and movement compromises the vowel sound, altering perceived pitch.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why is humming sometimes questioned as a true SOVT exercise?",
+  "correct": "Air escapes through the nasal passages, producing low air pressure in the mouth",
+  "distractors": [
+   "It creates pulsating rather than continuous pressure and thus cannot raise oral pressure",
+   "It requires the glottis to stay open for airflow, so the folds never actually vibrate",
+   "It restricts airflow so much that the vocal folds cannot vibrate at all when humming"
+  ],
+  "explain": "Maxfield et al. noted that humming lets air escape through the nose, giving low pressure in the mouth, which questions its SOVT status.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the suggested order for SOVT exercises?",
+  "correct": "Start with a small straw and finish with sustained [i] or [u]",
+  "distractors": [
+   "Start with lip trills and finish with a small straw",
+   "Start with sustained [i] or [u] and finish with humming",
+   "Start with humming and finish with [v] or [z]"
+  ],
+  "explain": "Exercises begin with the highest airflow restriction and progress toward the vowels [i] and [u], transferring the support to normal singing.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What three elements are required to create sound?",
+  "correct": "Air pressure, vibrating vocal folds, and a resonator",
+  "distractors": [
+   "Air pressure, a straight tone, and a consonant",
+   "Vocal folds, jaw, and lips",
+   "Posture, breath, and vibrato"
+  ],
+  "explain": "Sound needs a power source, a vibrator, and a resonator.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What structures vibrate to create sound?",
+  "correct": "The vocal folds",
+  "distractors": [
+   "The tongue",
+   "The soft palate",
+   "The ribs"
+  ],
+  "explain": "The vocal folds are the vibrator.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is vocal onset?",
+  "correct": "The beginning of sound",
+  "distractors": [
+   "The end of a phrase",
+   "The pitch of the vibrato",
+   "The breath taken before singing"
+  ],
+  "explain": "Onset is how a tone starts.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a coordinated onset?",
+  "correct": "Airflow and vocal fold closure occur simultaneously",
+  "distractors": [
+   "The vocal folds close before airflow begins",
+   "Air escapes before the vocal folds close",
+   "A low-pitched onset with relaxed closure"
+  ],
+  "explain": "Breath and fold closure happen together.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why is the coordinated onset preferred?",
+  "correct": "It is efficient, healthy, and produces consistent tone",
+  "distractors": [
+   "It is the loudest way to start a tone",
+   "It keeps the vocal folds apart",
+   "It adds a dramatic accent to each phrase"
+  ],
+  "explain": "It is the healthiest and most reliable way to begin a tone.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a glottal onset?",
+  "correct": "The vocal folds close before airflow begins",
+  "distractors": [
+   "Air escapes before the vocal folds close",
+   "Airflow and closure occur together",
+   "A low-pitched onset with relaxed closure"
+  ],
+  "explain": "The folds are shut first, then air pressure bursts them open.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What problems can hard glottal attacks cause?",
+  "correct": "Strain, tension, fatigue, and possible injury",
+  "distractors": [
+   "Wasted air and a breathy tone",
+   "A pitch scoop at the start of notes",
+   "A loss of vibrato"
+  ],
+  "explain": "Repeated hard attacks are hard on the voice.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a breathy onset?",
+  "correct": "Air escapes before vocal fold closure",
+  "distractors": [
+   "The vocal folds close before airflow begins",
+   "Airflow and closure occur together",
+   "A very loud, forceful start"
+  ],
+  "explain": "Air leaks out before the folds come together.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why is a breathy onset inefficient?",
+  "correct": "It wastes air and reduces vocal efficiency",
+  "distractors": [
+   "It causes the folds to collide hard",
+   "It raises the larynx",
+   "It always makes the pitch flat"
+  ],
+  "explain": "Air is wasted before the tone starts.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is a vocal fry onset?",
+  "correct": "A low-pitched onset with relaxed vocal fold closure",
+  "distractors": [
+   "A high-pitched onset with very tight closure",
+   "A forceful onset with a hard attack",
+   "An onset with a lot of escaping air"
+  ],
+  "explain": "Fry is low and creaky with loose fold closure.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is the preferred vocal release?",
+  "correct": "A coordinated release, often accompanied by inhalation",
+  "distractors": [
+   "A sudden cutoff by closing the throat",
+   "Letting the air leak out slowly",
+   "Pushing out any remaining air"
+  ],
+  "explain": "Ending the tone smoothly, often by beginning to inhale.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why are phrase endings important?",
+  "correct": "They affect musical precision and vocal quality",
+  "distractors": [
+   "They tell the audience when to clap",
+   "They determine the singer's register",
+   "They only matter in choral singing"
+  ],
+  "explain": "How a phrase ends shapes precision and tone quality.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which of these is an SOVT exercise?",
+  "correct": "Straw phonation",
+  "distractors": [
+   "Glottal attack drills",
+   "Shouting on [a]",
+   "Clavicular breathing"
+  ],
+  "explain": "SOVT exercises include straw phonation, lip and tongue trills, humming, [v], and [z].",
+  "source": "guide",
+  "difficulty": "easy"
+ }
+]

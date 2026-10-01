@@ -1,0 +1,458 @@
+[
+ {
+  "q": "Why do singers need to give consonants as much attention as vowels?",
+  "correct": "Consonants carry the text of the song and make it intelligible",
+  "distractors": [
+   "Consonants supply most of the resonance and tonal color of the voice",
+   "Consonants are louder than vowels and must be balanced against them",
+   "Consonants set the pitch that vowels must then match"
+  ],
+  "explain": "The chapter calls consonants an integral part of communicating the message of song, so they are essential for understanding the text.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is \"vowel pollution\"?",
+  "correct": "Vowels preceding or following a consonant are compromised because the consonant was formed inefficiently",
+  "distractors": [
+   "Extra vowel sounds are added at the end of every sung word because the singer releases the consonant too slowly and too late",
+   "Vowels are sung too loudly and cover the consonants that come before and after them",
+   "Vowels become nasal because the soft palate stays lowered during the neighboring consonants"
+  ],
+  "explain": "The book uses the term for singers compromising the preceding and subsequent vowels when they do not form consonants efficiently.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which of these is one of the primary articulators for consonants?",
+  "correct": "The alveolar ridge behind the top front teeth",
+  "distractors": [
+   "The false vocal folds",
+   "The diaphragm",
+   "The lower ribs"
+  ],
+  "explain": "The primary articulators are the lips, teeth, tongue, alveolar ridge, hard palate, and soft palate, plus proper jaw position.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What does efficient articulation of a consonant mean?",
+  "correct": "Using only the articulators needed to form the consonant and nothing more",
+  "distractors": [
+   "Exaggerating every articulator so the consonant is heard in a large hall",
+   "Holding the consonant as long as the vowel that follows it",
+   "Keeping the jaw completely still while forming every consonant"
+  ],
+  "explain": "Singers should use only the articulators necessary to form a consonant; otherwise neighboring vowels are compromised.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What happens when the initial consonant of a word is formed too slowly?",
+  "correct": "The pitch may be flat, and the singer scoops up to the pitch on the vowel",
+  "distractors": [
+   "The pitch may be sharp, and the singer slides down to the pitch on the vowel",
+   "The vowel is shortened so that the word ends well before the next beat arrives",
+   "The consonant becomes voiced even if it is written as an unvoiced consonant"
+  ],
+  "explain": "A slow initial consonant delays arrival at the intended pitch, so the singer scoops up to it on the subsequent vowel.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why are [w] and \"y\" ([j]) treated as vowels when singing?",
+  "correct": "They are glides, formed like [u] and [i] and moved quickly into the next vowel",
+  "distractors": [
+   "They are formed with the soft palate lowered, like nasal consonants, and carry pitch",
+   "They are unvoiced sounds produced with breath moving through the open glottis",
+   "They are formed by sealing the tongue against the roof of the mouth, like plosives"
+  ],
+  "explain": "The book says [w] and y are technically glides: [w] is like [u] and [j] like [i], moving quickly to the following vowel.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What distinguishes an unvoiced consonant from a voiced one?",
+  "correct": "Unvoiced consonants involve no vocal fold vibration and are shaped by breath through the open glottis",
+  "distractors": [
+   "Unvoiced consonants are formed only with the lips and teeth, while voiced consonants use only the tongue and soft palate",
+   "Unvoiced consonants require the soft palate to be lowered so that breath can escape through the nose and mouth",
+   "Unvoiced consonants carry the pitch of the phrase, while voiced consonants are only noise"
+  ],
+  "explain": "Unvoiced consonants have no vocal fold vibration, whereas voiced consonants carry pitch.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which group consists entirely of voiced consonants?",
+  "correct": "[b], [d], [g], [v], [z]",
+  "distractors": [
+   "[b], [d], [k], [v], [z]",
+   "[p], [d], [g], [v], [z]",
+   "[b], [t], [g], [f], [z]"
+  ],
+  "explain": "[b], [d], [g], [v], and [z] are voiced; [p], [t], [k], [f], and [s] are their unvoiced partners.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Which group consists entirely of unvoiced consonants?",
+  "correct": "[p], [t], [k], [f], [s]",
+  "distractors": [
+   "[p], [t], [g], [f], [s]",
+   "[b], [t], [k], [f], [s]",
+   "[p], [t], [k], [v], [s]"
+  ],
+  "explain": "[p], [t], [k], [f], and [s] are produced without vocal fold vibration; [b], [g], and [v] are voiced.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What can happen if the final \"t\" in \"mist\" is not pronounced?",
+  "correct": "The word sounds like \"miss\" and the meaning may be misunderstood",
+  "distractors": [
+   "The word sounds like \"missed\" and the tense changes",
+   "The preceding vowel becomes a diphthong",
+   "The pitch of the phrase rises out of tune"
+  ],
+  "explain": "Final consonants are easily overlooked, and without them a word can be confused with another word or not understood at all.",
+  "source": "guide",
+  "difficulty": "hard"
+ },
+ {
+  "q": "When singing \"blow\" too slowly, what unintended result can occur?",
+  "correct": "An extra vowel such as a schwa appears, making it sound like \"buh-lo\"",
+  "distractors": [
+   "The [l] is dropped so that the word sounds like \"bow\" and the vowel is shortened",
+   "The [b] becomes unvoiced, so the word sounds like \"plow\" instead of \"blow\"",
+   "The vowel [o] becomes a glide beginning with [w], so the word sounds like \"bwo\""
+  ],
+  "explain": "Consonant clusters need two distinct movements, and singing them too slowly inserts an unintended vowel between them.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "For which consonants does the book describe the jaw lowering phase as the most significant source of pitch difficulty?",
+  "correct": "[j], [s], [v], and [z], where the jaw closes to some extent",
+  "distractors": [
+   "[g], [k], and [ŋ], where the tongue seals the roof of the mouth",
+   "[l], [t], and [d], where the tongue tip touches the ridge",
+   "[m], [n], and [ŋ], where the soft palate is lowered"
+  ],
+  "explain": "For [j], [s], [v], and [z] the jaw closes, and as it lowers again the first formant rises, raising perceived pitch.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why does singing [g] too slowly in \"God\" create a problem?",
+  "correct": "The jaw lowers too slowly from the closed position to [ɑ], so a diphthong occurs",
+  "distractors": [
+   "The tongue tip curls back toward the palate, creating a retroflex sound before the vowel begins",
+   "The soft palate lowers and the vowel becomes nasal, so the word sounds like \"gnod\"",
+   "The [g] becomes unvoiced and the word sounds like \"cod\" because the folds stop vibrating"
+  ],
+  "explain": "The mouth is relatively closed for [g], and if the jaw drops too slowly for the vowel [ɑ], a diphthong results.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What does R. Miller recommend for how classical singers should execute [l]?",
+  "correct": "A flick of the tongue with a quick return to rest against the lower teeth",
+  "distractors": [
+   "A firm press of the whole tongue blade against the hard palate",
+   "Sustaining it as long as possible to keep the line legato",
+   "Placing the tongue tip well behind the front teeth on the roof of the mouth"
+  ],
+  "explain": "Miller says a flick and quick return prevents [l] from becoming a lazy, liquid consonant that encourages transitional sounds.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "How is the glide [w] (as in \"wonder\") formed, according to the book?",
+  "correct": "Sing [u] with slightly more lip pucker and move quickly to the next vowel",
+  "distractors": [
+   "Sing [i] with the tongue close to the hard palate and move quickly on to the vowel",
+   "Close the lips completely and release them with a burst of air into the next vowel",
+   "Place the tongue tip on the alveolar ridge and flip it once before the next vowel"
+  ],
+  "explain": "[w] is formed like [u] with a bit more pucker; it emerges in the quick transition to the following vowel.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why might a singer use an unvoiced consonant when entering on a high pitch?",
+  "correct": "The breath is already moving when the pitch begins, easing coordination of glottal closure and airflow",
+  "distractors": [
+   "Unvoiced consonants raise the first formant and make the pitch easier to reach",
+   "Unvoiced consonants keep the vocal folds firmly closed before the vowel",
+   "Unvoiced consonants allow the singer to skip the inhalation before the phrase"
+  ],
+  "explain": "Coordinating closure and airflow on a high pitch is complicated; starting airflow on the unvoiced version means breath is moving when pitch begins.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "When singing with a microphone, why should singers be mindful of unvoiced plosive consonants?",
+  "correct": "They can cause pops or distortion if sung too close or with unamplified breath pressure",
+  "distractors": [
+   "They disappear from the amplified sound and make the words unintelligible to the audience and the sound engineer",
+   "They force the singer to add a neutral syllable after each word to release the pressure",
+   "They make the sound flat by lowering the first formant and reducing the vocal fold closure"
+  ],
+  "explain": "Plosives can pop when sung close to the mic or with the same breath pressure used without amplification.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "How is a flipped \"r\" described in the book?",
+  "correct": "Like \"vedy\" for \"very\": one quick, light contact of the tongue on the alveolar ridge",
+  "distractors": [
+   "A tongue flutter on the ridge, sustained by fairly high breath pressure and a relaxed tongue tip",
+   "The tongue tip curled back toward the palate while the jaw stays closed for the whole word",
+   "The back of the tongue placed against or near the uvula, producing a rolled guttural sound"
+  ],
+  "explain": "The flipped \"r\" touches the alveolar ridge more quickly and with less firm contact than \"d,\" and makes only one contact.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What does the ending retroflex (American) \"r\" do, and how should classical singers treat it?",
+  "correct": "It dramatically lowers the third formant, so classical singers should avoid it",
+  "distractors": [
+   "It dramatically raises the first formant, so classical singers should double it",
+   "It lowers the second formant, so classical singers should extend it",
+   "It has no acoustic effect and is acceptable in every style"
+  ],
+  "explain": "The tongue tip curling back creates a large cavity and lowers F3; it is avoided in classical music but suits contemporary styles.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "According to the rules given for singing Italian, how should \"r\" be formed between two vowels?",
+  "correct": "Flipped",
+  "distractors": [
+   "Rolled",
+   "Retroflex",
+   "Guttural"
+  ],
+  "explain": "The Italian rules are to flip an \"r\" between two vowels, roll it next to a consonant, roll a final \"r,\" and never use a retroflex \"r.\"",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "According to Richard Miller, which consonants should be anticipated slightly ahead of the beat in classical singing?",
+  "correct": "Unvoiced consonants, since they carry no pitch",
+  "distractors": [
+   "Voiced consonants, since they carry pitch",
+   "Only the nasal consonants [m], [n], and [ŋ]",
+   "Only consonants at the ends of phrases"
+  ],
+  "explain": "Unvoiced consonants can precede the beat while voiced ones belong on the beat because they carry pitch, letting the vowel land on the beat.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "In contemporary styles, what effect does placing consonants ahead of the beat typically create?",
+  "correct": "A sense of tension or aggressiveness",
+  "distractors": [
+   "A more relaxed, laid-back feeling",
+   "A smoother legato with less articulation",
+   "A darker vowel color and lower first formant"
+  ],
+  "explain": "Consonants ahead of the beat add tension or aggressiveness, while behind the beat they create a more relaxed feel.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the goal of the \"Hang-gun-num-ee\" exercise?",
+  "correct": "Sustaining the nasal consonants [ŋ], [n], and [m] on one pitch while keeping the jaw lowered",
+  "distractors": [
+   "Practicing quick release of the unvoiced plosives [p], [t], and [k] while keeping the jaw closed and firm",
+   "Learning to roll the \"r\" with high breath pressure and a relaxed tongue on every syllable of the phrase",
+   "Practicing the flipped \"r\" between two vowels while the soft palate is fully lowered"
+  ],
+  "explain": "The exercise moves quickly through vowels to sustain each nasal consonant, starting with \"hang\" to lower the jaw and keeping it lowered.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "What is the purpose of snapping the fingers in the exercise for final consonants?",
+  "correct": "It shows whether a singer perceives the timing of the release accurately",
+  "distractors": [
+   "It keeps the singer on the beat throughout the whole phrase and the whole song",
+   "It trains the tongue to return to its resting position after each final consonant",
+   "It reminds the singer to inhale quickly before the final consonant is released"
+  ],
+  "explain": "Snapping at the moment of release reveals immediately if a singer does not perceive the release precisely; repeat until correct.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why can lack of attention to a final voiced consonant such as [m] cause flat pitch?",
+  "correct": "Singers may relax breath support too soon on the voiced final consonant",
+  "distractors": [
+   "The soft palate rises too high and cuts off the resonance of the final consonant",
+   "The tongue curls back and lowers the third formant during the final consonant",
+   "The consonant is anticipated before the beat, so the vowel is late and the pitch drifts"
+  ],
+  "explain": "Besides jaw closing lowering the first formant, singers may relax breath support too soon on a voiced final consonant like [m], making the pitch flat.",
+  "source": "book",
+  "difficulty": "hard"
+ },
+ {
+  "q": "Why are consonants important?",
+  "correct": "They communicate text and improve intelligibility",
+  "distractors": [
+   "They carry the pitch of the melody",
+   "They determine the timbre",
+   "They support the breath"
+  ],
+  "explain": "Consonants carry the words.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is vowel pollution?",
+  "correct": "Consonants interfering with adjacent vowels",
+  "distractors": [
+   "Too many vowels in a single word",
+   "Breathy vowels",
+   "Vowels sung with too much nasality"
+  ],
+  "explain": "Consonants should not disturb the neighboring vowels.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which list names the primary articulators?",
+  "correct": "Lips, teeth, tongue, alveolar ridge, hard palate, soft palate, and jaw",
+  "distractors": [
+   "Vocal folds, larynx, trachea, and lungs",
+   "Diaphragm, ribs, sternum, and abdomen",
+   "Sinuses, nasal cavity, and skull"
+  ],
+  "explain": "Articulators shape consonants: lips, teeth, tongue, ridge, palates, and jaw.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What is efficient articulation?",
+  "correct": "Using only the movement necessary to create the consonant",
+  "distractors": [
+   "Exaggerating every consonant",
+   "Making consonants as loud as possible",
+   "Delaying every consonant"
+  ],
+  "explain": "Do only as much as is needed.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why should consonants not interfere with vowels?",
+  "correct": "To preserve tone quality and resonance",
+  "distractors": [
+   "To make the singing louder",
+   "To keep the pitch high",
+   "To make phrases shorter"
+  ],
+  "explain": "Vowels carry the tone, so consonants must stay out of their way.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why do slow consonants create pitch scoops?",
+  "correct": "They delay arrival at the intended vowel and pitch",
+  "distractors": [
+   "They raise the larynx",
+   "They let extra air escape",
+   "They lower the jaw"
+  ],
+  "explain": "The singer reaches the vowel late and slides up to the pitch.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What are glides?",
+  "correct": "Semi-vowels that move quickly into another vowel",
+  "distractors": [
+   "Consonants made with the lips closed",
+   "Slow changes of register",
+   "Unvoiced consonants"
+  ],
+  "explain": "Glides are quick semi-vowels.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which consonants function as glides?",
+  "correct": "W and Y",
+  "distractors": [
+   "P and T",
+   "S and Z",
+   "B and D"
+  ],
+  "explain": "W and Y are the glides.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What are voiced consonants?",
+  "correct": "Consonants produced with vocal fold vibration",
+  "distractors": [
+   "Consonants produced without vocal fold vibration",
+   "Consonants made only with the lips",
+   "Consonants made only at the ends of words"
+  ],
+  "explain": "Voiced consonants use the vocal folds.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which set contains five voiced consonants?",
+  "correct": "B, D, G, V, Z",
+  "distractors": [
+   "P, T, K, F, S",
+   "T, K, S, F, H",
+   "P, F, S, T, H"
+  ],
+  "explain": "B, D, G, V, and Z are voiced.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "What are unvoiced consonants?",
+  "correct": "Consonants produced without vocal fold vibration",
+  "distractors": [
+   "Consonants produced with vocal fold vibration",
+   "Consonants that are silent in words",
+   "Consonants sung on a very high pitch"
+  ],
+  "explain": "Unvoiced consonants use air only.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Which set contains five unvoiced consonants?",
+  "correct": "P, T, K, F, S",
+  "distractors": [
+   "B, D, G, V, Z",
+   "B, G, V, Z, M",
+   "D, G, Z, V, L"
+  ],
+  "explain": "P, T, K, F, and S are unvoiced.",
+  "source": "guide",
+  "difficulty": "easy"
+ },
+ {
+  "q": "Why are final consonants important?",
+  "correct": "They improve intelligibility and communication",
+  "distractors": [
+   "They raise the pitch",
+   "They add vibrato to the tone",
+   "They lengthen the vowel"
+  ],
+  "explain": "Final consonants complete the words so the text is understood.",
+  "source": "guide",
+  "difficulty": "easy"
+ }
+]
